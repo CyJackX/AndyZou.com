@@ -1,0 +1,26 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>Andy Zou - Filmmaker | Creative | Weirdo</title>
+<link rel="stylesheet" type="text/css" href="styles.css">
+<!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.--><script>var __adobewebfontsappname__="dreamweaver"</script><script src="https://use.edgefonts.net/arvo:n4:default;anonymous-pro:n4:default;asap:n4,n7,i4:default.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="wrapper">
+<div id="left">
+     <!--#include virtual="menu.html" --> 
+</div>
+  <div align=center id="content"><div id="caption">
+    <h2>Who, or what, is Andy Zou?</h2>
+  </div>
+  <img src="photos/10259930_658796824158216_4342821014715206294_n.jpg" style="width:50%" alt=""/>
+    <div id="about">
+    <p>Andy is a jack-of-all-trades, multi-hyphenate, Renaissance guy of digital content!  A director, cinematographer, editor, writer, and sometimes coder, Andy has worked on hundreds of short and long-form projects over the past decade, establishing a reputation amongst the local entertainment scene as a go-to resource for turnkey video and content production.  Past clients have included Barkbox, Snapchat, Color of Change, Comedy Central, The Architect's Newspaper, MOMA, and countless others.</p></div>
+<!--    <img border=1 src="photos/B35CVIbIgAAIQg-.jpg" style="width:70%" alt=""/>-->
+      <img border=1 src="photos/DSC02514.jpg" style="width:70%" alt=""/><div id="about">
+    <p>Andy graduated from New York University's Experimental Theatre program with a BFA in Drama and a minor in Mathematics & Computer Science.</p>
+    </div>
+</div>
+</body>
+</html>
+

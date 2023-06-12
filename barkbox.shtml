@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="description" content="Andy Zou's Portfolio: BarkBox">
+<meta name="keywords" content="Andy Zou, Creative Director, Content Producer, Video Production, Technology Enthusiast, Freelance Filmmaker, Comedy Central, New York University, Web Development, Director, Filmmaker, Barkbox">
+<meta name="author" content="Andy Zou">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Open Graph tags for social media -->
+<meta property="og:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta property="og:description" content="Andy Zou's Portfolio: BarkBox">
+<meta property="og:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta property="og:url" content="https://www.AndyZou.com">
+
+<!-- Twitter Card tags -->
+<meta name="twitter:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta name="twitter:description" content="Andy Zou's Portfolio: BarkBox">
+<meta name="twitter:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@YoAndyZou">
+<title>BarkBox</title>
+<!--#include virtual="scripts.html" -->
+</head>
+<body>
+<div id="wrapper">
+  <!--#include virtual="banner.shtml" -->
+  <div id="page" class="fade">
+    <h2 id="title">Barkbox</h2>
+    <p id="about">Cinematographer and Editor for a variety of social media videos for dog brand <a hrfef="https://www.barkbox.com">Barkbox.com!</a></p><br>
+    <div class="content">
+            <div class="cell">
+        <lite-youtube videoid="5_Ls6uFv02c"</lite-youtube></div>
+		  <div class="cell">
+        <lite-youtube videoid="WVWgI7qbczU"</lite-youtube></div>
+		  <div class="cell">
+        <lite-youtube videoid="GTe8TF2WO7c"</lite-youtube></div>
+		  <div class="cell">
+        <lite-youtube videoid="ka0BFkoN5zU"</lite-youtube></div>
+		  <div class="cell">
+        <lite-youtube videoid="kNRRsFVORjk"</lite-youtube></div>
+		  <div class="cell">
+        <lite-youtube videoid="JEhQqCkB4j4"</lite-youtube></div>
+		  <div class="cell">
+        <lite-youtube videoid="Pl79bFuAF9g"</lite-youtube></div>
+		  <div class="cell">
+        <lite-youtube videoid="M_MvQp_8yys"</lite-youtube></div>
+		  <div class="cell">
+        <lite-youtube videoid="mY5cBB_IFwE"</lite-youtube></div>
+		  <div class="cell">
+        <lite-youtube videoid="GZwbz93nLNM"</lite-youtube></div>
+		  <div class="cell">
+        <lite-youtube videoid="58aQHCgtUl8"</lite-youtube></div>
+		  <div class="cell">
+        <lite-youtube videoid="u41CwpaJdJE"</lite-youtube></div>
+		  <div class="cell">
+        <lite-youtube videoid="8aEWCjHbwp4"</lite-youtube></div>
+      <!--
+      <div class="cell vertical">
+        <lite-youtube class="portrait" videoid="dwXaeTYc3Tg"></lite-youtube>
+      </div>
+      <div class="cell vertical">
+        <div class="video-container vertical">
+          <iframe src="https://www.youtube.com/embed/AROtp_lq240" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>-->
+    </div>
+  </div>
+  <footer> 
+    <!--#include virtual="footer.html" --> 
+  </footer>
+</div>
+</body>
+</html>

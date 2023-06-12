@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="description" content="Andy Zou is a multi-disciplinary content creator, director, and tech enthusiast with over a decade of experience in social-first video content.">
+<meta name="keywords" content="Andy Zou, Creative Director, Content Producer, Video Production, Technology Enthusiast, Freelance Filmmaker, Comedy Central, New York University, Web Development, Director, Filmmaker">
+<meta name="author" content="Andy Zou">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Open Graph tags for social media -->
+<meta property="og:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta property="og:description" content="Andy Zou is a multi-disciplinary content creator, director, and tech enthusiast with over a decade of experience in the social-first video content.">
+<meta property="og:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta property="og:url" content="https://www.AndyZou.com">
+
+<!-- Twitter Card tags -->
+<meta name="twitter:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta name="twitter:description" content="Andy Zou is a multi-disciplinary content creator, director, and tech enthusiast with over a decade of experience in the social-first video content.">
+<meta name="twitter:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@YoAndyZou">
+<title>Andy Zou - Creative | Director | Weirdo</title>
+<!--#include virtual="scripts.html" -->
+</head>
+<body>
+<div id="wrapper">
+  <!--#include virtual="banner.shtml" -->
+  <div id="page" class="fade">
+     <h2 id="title">NYT:VI Demo</h2>
+      <p id="about" class="bio"> Hello!  I've collected a few of the videos I've worked on where I had to flex more of my graphical and animation skills. The irony that my portfolio is almost entirely in comedy is not lost on me in applying for as serious of an institution as the New York Times, and I want to underscore that these are in no way representative of the professionalism I would apply to other work.</p><br>
+    <div class="content">
+        <div class ="cell">
+            <div class="video-container">
+              <iframe src="https://www.youtube.com/embed/HpBRGXK-QNs" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <b>Duverger's Law</b><br>
+            Volunteer work for ElectionScience.com<br>
+            Writer, Director, & Editor
+        </div>
+          <div class ="cell">
+            <div class="video-container">
+              <iframe src="https://www.youtube.com/embed/bHY5AyX8twQ?start=1" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <b>Securocam3000</b><br>
+            Original Content<br>
+            Writer, Director, & Editor
+        </div>
+<div class="cell">
+        <lite-youtube videoid="0U5SCBko2XM"></lite-youtube>
+        <b>Tuber</b><br>
+        Original Content<br>
+        Writer, Director, & Editor </div>
+        <div class="cell">
+        <lite-youtube videoid="aQN6jBk_LWc"></lite-youtube>
+        <b>iContact</b> ft. <a href="https://www.youtube.com/@DeStorm" target=”_blank”>DeStorm</a> <br>
+        Comedy Central Originals<br>
+        Writer, Director, & Editor </div>
+        <div class ="cell vertical">
+      <div class="video-container vertical">
+        <iframe src="https://www.youtube.com/embed/DJCgT1gw8nc" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <b>Vesting Up</b><br>
+      Comedy Central Originals<br>
+      Writer, Director, & Editor </div>
+      
+  </div>
+    
+    <footer>
+<!--#include virtual="footer.html" -->
+</footer>
+</div>
+</div>
+</body>
+</html>

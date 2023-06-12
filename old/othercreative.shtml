@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Andy Zou - Filmmaker | Creative | Weirdo</title>
+<link rel="stylesheet" type="text/css" href="styles.css">
+<!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.-->
+<script>var __adobewebfontsappname__="dreamweaver"</script>
+<script src="https://use.edgefonts.net/arvo:n4:default;anonymous-pro:n4:default;asap:n4,n7,i4:default.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="wrapper">
+<div id="left"> <!--#include virtual="menu.html" --> 
+</div>
+<div align = center id="content">
+  <div id="caption">
+    <h2>Andy's Originals</h2>
+<p>From his brain to yours!
+	  <br>
+	  Andy generally directs, edits, and shoots everything he writes!</p>
+<iframe src="https://www.youtube.com/embed/RhzSqWrjx7Q" frameborder="0" allowfullscreen></iframe>   
+	  <iframe src="https://www.youtube.com/embed/kNGsC9uqwVs" frameborder="0" allowfullscreen></iframe>   
+  <iframe src="https://www.youtube.com/embed/IFy3_eb190A" frameborder="0" allowfullscreen></iframe> 
+  <iframe src="https://www.youtube.com/embed/iLNypL04zH0" frameborder="0" allowfullscreen></iframe> 
+  <iframe src="https://www.youtube.com/embed/dcWy5-q_4I8" frameborder="0" allowfullscreen></iframe>  
+  <p>Co-directed with Aleks Arcabascio</p>
+  <iframe src="https://www.youtube.com/embed/yfArAqv4Juw" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/fTbRmOHJp1I" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/0U5SCBko2XM" frameborder="0" allowfullscreen></iframe>
+  <iframe frameborder="0" src="https://www.youtube.com/embed/nl2-5DDL5nM" allowfullscreen></iframe>
+  <iframe frameborder="0" src="https://www.youtube.com/embed/VvamNGWoHfQ" allowfullscreen></iframe>
+  <iframe frameborder="0" src="https://www.youtube.com/embed/dvVDAleZ8aA" allowfullscreen></iframe>
+</div>
+</body>
+</html>

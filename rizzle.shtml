@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="description" content="Andy Zou's Portfolio: Andy's Asian Afterlife">
+<meta name="keywords" content="Andy Zou, Creative Director, Content Producer, Video Production, Technology Enthusiast, Freelance Filmmaker, Comedy Central, New York University, Web Development, Director, Filmmaker, Asian Comedy Festival, Rizzle, Series">
+<meta name="author" content="Andy Zou">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Open Graph tags for social media -->
+<meta property="og:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta property="og:description" content="Andy Zou's Portfolio: Andy's Asian Afterlife">
+<meta property="og:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta property="og:url" content="https://www.AndyZou.com">
+
+<!-- Twitter Card tags -->
+<meta name="twitter:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta name="twitter:description" content="Andy Zou's Portfolio: Andy's Asian Afterlife">
+<meta name="twitter:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@YoAndyZou">
+<title>Andy's Asian Afterlife</title>
+<!--#include virtual="scripts.html" -->
+</head>
+<body>
+<div id="wrapper">
+  <!--#include virtual="banner.shtml" -->
+  <div id="page" class="fade">
+    <h2 id="title">Andy's Asian Afterlife</h2>
+      <p id="about">Winner of <a href="https://asiancomedyfest.com" target="_blank">Asian Comedy Fest</a>'s <a href="https://rizzle.com/" target="_blank">Rizzle</a> Competition 2021!<br>Directed, Shot and Edited in 48 hours.</p>
+      <br>
+    <div class="content">
+        <div class="cell vertical">
+        <div class="video-container vertical">
+          <iframe src="https://www.youtube.com/embed/iZDqZ6Bq1yI" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+        <div class="cell vertical">
+        <div class="video-container vertical">
+          <iframe src="https://www.youtube.com/embed/taRJ5K7Emdo" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+        <div class="cell vertical">
+        <div class="video-container vertical">
+          <iframe src="https://www.youtube.com/embed/HxXucJ6rFQA" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+      <!--
+      <div class="cell vertical">
+        <lite-youtube class="portrait" videoid="dwXaeTYc3Tg"></lite-youtube>
+      </div>
+      <div class="cell vertical">
+        <div class="video-container vertical">
+          <iframe src="https://www.youtube.com/embed/AROtp_lq240" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>-->
+    </div>
+  </div>
+  <footer> 
+    <!--#include virtual="footer.html" --> 
+  </footer>
+</div>
+</body>
+</html>

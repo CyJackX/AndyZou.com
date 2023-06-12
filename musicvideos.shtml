@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="description" content="Andy Zou's Portfolio: Music Videos">
+<meta name="keywords" content="Andy Zou, Creative Director, Content Producer, Video Production, Technology Enthusiast, Freelance Filmmaker, Comedy Central, New York University, Web Development, Director, Music Videos">
+<meta name="author" content="Andy Zou">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Open Graph tags for social media -->
+<meta property="og:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta property="og:description" content="Andy Zou's Portfolio: Music Videos">
+<meta property="og:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta property="og:url" content="https://www.AndyZou.com">
+
+<!-- Twitter Card tags -->
+<meta name="twitter:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta name="twitter:description" content="Andy Zou's Portfolio: Music Videos">
+<meta name="twitter:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@YoAndyZou">
+<title>Andy Zou Portfolio: Music Videos</title>
+<!--#include virtual="scripts.html" -->
+</head>
+<body>
+<div id="wrapper">
+  <!--#include virtual="banner.shtml" -->
+  <div id="page" class="fade">
+    <h2 id="title">Music Videos</h2>
+      <p id="about">Also check out music videos done with <a href="comedycentral.shtml#roseshow">Rose Kelso at Comedy Central!</a></p><br>
+    <div class="content">
+        <div class="cell">
+        <lite-youtube videoid="hQO_LLV9tms"></lite-youtube>
+        <b>Instagram Betches</b><br>
+        Best Sketch at NYC Short Comedy Film Fest 2020<br>
+        Director & Cinematographer </div>
+      <div class="cell">
+        <lite-youtube videoid="AzjRdPLgj_k"></lite-youtube>
+        <b>Torn</b> ft. <a href="https://www.annaroisman.com/">Anna Roisman</a><br>
+        Parody Music Video<br>
+        Director & Cinematographer </div>
+        <div class="cell">
+          <lite-youtube videoid="lMFubod8Gdc" style="background-image: url('photos/snack.jpg');"></lite-youtube>
+          <b>Lookin' Like a Snack</b><br>
+          Branded Music Video<br>
+          Director & Cinematographer </div>
+        <div class="cell">
+        <lite-youtube videoid="f53aKCMl7FQ" params="start=106"></lite-youtube>
+        <b>Jackson Pollack</b> by <a href="https://www.douglaswidick.com">Douglas Widick</a><br>
+        Parody Music Video<br>
+        Director & Animator</div>
+        <div class="cell">
+        <lite-youtube videoid="17KJIdnMERk"></lite-youtube>
+        <b>Laughing Eating Salad</b><br>
+        Original Music Video<br>
+        Director & Cinematographer</div>
+        <div class="cell">
+        <lite-youtube videoid="hVrMjp22IM0"></lite-youtube>
+        <b>Pay For Me</b><br>
+        Parody Music Video<br>
+        Co-Director, Cinematographer, Editor</div>
+      <div class="cell">
+        <lite-youtube videoid="-53w2mv_upw"></lite-youtube>
+        <b>Sugar</b> by <a href="https://www.sistersparrow.com">Sister Sparrow</a><br>
+      Cinematographer & Editor</div>
+              <div class="cell">
+        <lite-youtube videoid="t3rLCM9LFfE"></lite-youtube>
+        <b>Hooking Up With Girls</b> ft. <a href="https://www.lanemoore.org/itwasromance/">Lane Moore</a><br>
+      Cinematographer & Editor</div>
+</div>
+  </div>
+  <footer> 
+    <!--#include virtual="footer.html" --> 
+  </footer>
+</div>
+</body>
+</html>

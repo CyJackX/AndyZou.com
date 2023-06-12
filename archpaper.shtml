@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="description" content="Andy Zou's Portfolio: Architect's Newspaper">
+<meta name="keywords" content="Andy Zou, Creative Director, Content Producer, Video Production, Technology Enthusiast, Freelance Filmmaker, Comedy Central, New York University, Web Development, Director, Architect's Newspaper">
+<meta name="author" content="Andy Zou">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Open Graph tags for social media -->
+<meta property="og:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta property="og:description" content="Andy Zou's Portfolio: Architect's Newspaper">
+<meta property="og:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta property="og:url" content="https://www.AndyZou.com">
+
+<!-- Twitter Card tags -->
+<meta name="twitter:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta name="twitter:description" content="Andy Zou's Portfolio: Architect's Newspaper">
+<meta name="twitter:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@YoAndyZou">
+<title>Andy Zou Portfolio: Architect's Newspaper</title>
+<!--#include virtual="scripts.html" -->
+</head>
+<body>
+<div id="wrapper">
+  <!--#include virtual="banner.shtml" -->
+  <div id="page" class="fade">
+    <h2 id="title">Architect's Newspaper</h2>
+      <p id="about">Videographer and Editor for a series of interviews on new constructions.</p><br>
+    <div class="content">
+        <div class="cell">
+            <div class="video-container">
+                <iframe src="https://www.youtube.com/embed/Bzhb1WBUNps" frameborder="0" allowfullscreen></iframe>
+            </div>
+        </div>
+        <div class="cell">
+            <div class="video-container">
+  <iframe src="https://player.vimeo.com/video/131434676" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            </div>
+        </div>
+        <div class="cell">
+            <div class="video-container">
+  <iframe src="https://player.vimeo.com/video/128175007" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            </div>
+        </div>
+        <div class="cell">
+            <div class="video-container">
+  <iframe src="https://player.vimeo.com/video/125948595" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            </div>
+        </div>
+        <div class="cell">
+            <div class="video-container">
+  <iframe src="https://player.vimeo.com/video/120168095" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            </div>
+        </div>
+</div>
+  </div>
+  <footer> 
+    <!--#include virtual="footer.html" --> 
+  </footer>
+</div>
+</body>
+</html>

@@ -1,0 +1,220 @@
+    <h2 id="title">Featured Work</h2>
+    <div class="content">
+      <div class="cell">
+        <div class="video-container">
+          <iframe src="https://www.youtube.com/embed/BXOaAgDnpd8" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <b>The Rebirthing Center</b><br>
+        Comedy Central Original. Webby-Nominated!<br>
+        Writer & Director </div>
+      <!--
+    <div class="cell">
+      <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/gSojwTO5QZs" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <b>Rich Friend</b> ft. <a href="https://www.youtube.com/@Anwar" target="_blank">Anwar</a><br>
+      Director </div>
+-->
+      
+      <div class="cell">
+        <div class="video-container">
+          <iframe src="https://www.youtube.com/embed/XhMz5vRlya8" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <b>The Polyamorous RomCom</b> ft. <a href="https://www.youtube.com/@yunggravy" target=”_blank”>Yung Gravy</a><br>
+        Comedy Central Originals<br>
+        Writer, Director, & Editor </div>
+      <div class="cell">
+        <div class="video-container">
+          <iframe src="https://www.youtube.com/embed/2PPkDxOul_0" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <b>Remote Control Boss</b><br>
+        Comedy Central Originals<br>
+        Writer, Director, & Editor </div>
+      <div class="cell">
+        <div class="video-container">
+          <iframe src="https://www.youtube.com/embed/KIdN_iYBW7A?controls=2" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <b>The Litterbox Office</b><br>
+        Comedy Central Originals 500M Views!<br>
+        Writer & Director </div>
+      <div class ="cell vertical">
+        <div class="video-container vertical">
+          <iframe src="https://www.youtube.com/embed/2Z4VgVKrveM" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <b>Take a Deep F***ing Breath</b><br>
+        Comedy Central Originals<br>
+        Writer & Director </div>
+      <div class ="cell vertical"> <a href="/makingit.shtml"><img class="verticalimg" src="photos/ep9still.jpg" alt="Still from Snapchat Series Making It"/></a><a href="/makingit.shtml"><b>Making It</b><br>
+        </a>Snapchat Originals 10 Episodes<br>
+        Director, Cinematographer & Editor </div>
+      <div class ="cell vertical">
+        <div class="video-container vertical">
+          <iframe src="https://www.youtube.com/embed/DJCgT1gw8nc" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <b>Vesting Up</b><br>
+        Comedy Central Originals<br>
+        Writer, Director, & Editor </div>
+      <div class="cell">
+        <div class="video-container">
+          <iframe src="https://www.youtube.com/embed/aQN6jBk_LWc" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <b>iContact</b> ft. <a href="https://www.youtube.com/@DeStorm" target=”_blank”>DeStorm</a> <br>
+        Comedy Central Originals<br>
+        Writer, Director, & Editor</div>
+      <div class="cell">
+        <div class="video-container">
+          <iframe src="https://www.youtube.com/embed/zcqkqql5VW0" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <b>The Living Funeral Home</b> ft. <a href="https://www.youtube.com/@lalamilan" target=”_blank”>Lala Milan</a><br>
+        Comedy Central Originals<br>
+        Writer & Director </div>
+      <div class="cell">
+        <div class="video-container">
+          <iframe src="https://www.youtube.com/embed/YUJIjQ0MytM" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <b>Teen Uncle</b> ft. <a href="https://www.youtube.com/@AdamW" target=”_blank”>Adam Waheed</a><br>
+        Comedy Central Originals<br>
+        Writer, Director, & Editor </div>
+      <div class="cell">
+        <div class="video-container">
+          <iframe src="https://www.youtube.com/embed/GBG1KLVBQPA" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <b>Whameo</b> ft. <a href="https://www.youtube.com/@SvenJohnsonBestYoutuber" target=”_blank”>Sven Johnson</a><br>
+        Comedy Central Originals<br>
+        Writer, Director, & Editor </div>
+      <div class="cell">
+        <div class="video-container">
+          <iframe src="https://player.vimeo.com/video/415652162" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <b>Instagram betches</b><br>
+        Best Sketch at NYC Short Comedy Film Fest 2020<br>
+        Director & Cinematographer </div>
+      <div class="cell">
+        <div class="video-container">
+          <iframe src="https://www.youtube.com/embed/RhzSqWrjx7Q" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <b>Poly Bachelorette</b><br>
+        Original Content<br>
+        Writer & Director </div>
+      <div class="cell">
+        <div class="video-container">
+          <iframe src="https://www.youtube.com/embed/lMFubod8Gdc" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <b>Lookin' Like a Snack</b><br>
+        Branded Music Video<br>
+        Director & Cinematographer</div>
+      <!--
+    <div class="cell">
+      <div class="video-container">
+        <iframe src="https://player.vimeo.com/video/334780888?color=08fc18" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      </div>
+        three4 Music Video
+    </div>
+
+    <div class="cell"> <a href="myrtleandwilloughby.shtml"><img src="photos/mw.jpg" alt="Series Photo Promo for Myrtle and Willoughby"/></a><b>Myrtle & Willoughby</b><br>
+      7 Episode Webseries<br>
+      Cinematographer</div>
+
+    <div class="cell">
+      <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/6a-2hDK3H-w" frameborder="0" allowfullscreen></iframe>
+      </div>
+      Cinematographer </div>
+-->
+      <div class="cell">
+        <div class="video-container">
+          <iframe src="https://www.youtube.com/embed/AzjRdPLgj_k" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <b>Torn</b> ft. <a href="https://www.annaroisman.com/">Anna Roisman</a><br>
+        Parody Music Video<br>
+        Director & Cinematographer</div>
+      <!--
+    <div class="cell">
+      <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/f53aKCMl7FQ" frameborder="0" allowfullscreen></iframe>
+      </div>
+      Directed and VFX'd a music video about an iconic Abstract Expressionist... </div>
+
+    <div class="cell">
+      <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/kNGsC9uqwVs" frameborder="0" allowfullscreen></iframe>
+      </div>
+      For QuickieFest V, a take on a classic spy movie trope: </div>
+
+    <div class="cell">
+      <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/z3fGGF-gi7o" frameborder="0" allowfullscreen></iframe>
+      </div>
+      Cinematographer for a UCB sketch! </div>
+<div class="cell">
+      <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/1hekO_UslLk" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <b>Power Nap</b> ft. Reggie Watts!<br>
+      CollegeHumor2<br>
+      Director & Cinematographer </div>
+    -->
+      <div class="cell"> <a href="https://www.youtube.com/watch?v=nRWyNY1xmto" target="_blank"><img src="photos/beautyandthebowl.jpg" alt="Beauty and the Bowl Thumbnail"></a> <b>Beauty and the Bowl</b> ft. <a href="https://www.unclefunction.com/" target="_blank">Uncle Function</a><br>
+        Sketch Comedy ft. on Funny Or Die!<br>
+        Director, Cinematographer, & Editor </div>
+        
+      <div class="cell">
+        <div class="video-container">
+          <iframe src="https://www.youtube.com/embed/qSPdMoxsZoU" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <b>Settling</b><br>
+        Sketch Comedy<br>
+        Director, Cinematographer, & Editor </div>
+    <!--       
+        <div class="cell">
+        <div class="video-container">
+          <iframe src="https://www.youtube.com/embed/hVrMjp22IM0" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <b>Pay For Me</b><br>
+        Parody Music Video<br>
+        Director & Cinematographer </div>
+   
+    <div class="cell">
+      <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/zewomnLNxZA" frameborder="0" allowfullscreen></iframe>
+      </div>
+      Shot a sketch by Nanners Comedy for the New Yorker! </div>
+    <div class="cell">
+      <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/68WPeLbzc5o" frameborder="0" allowfullscreen></iframe>
+      </div>
+      Be careful with your heart when you cross the mafia... </div>
+
+    <div class="cell">
+      <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/dcWy5-q_4I8" frameborder="0" allowfullscreen></iframe>
+      </div>
+      It's hard to be a model! </div>
+    <div class="cell">
+      <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/PEwfwxtwkWE" frameborder="0" allowfullscreen></iframe>
+      </div>
+      An ailing grandmother has an announcment for her children... </div>
+
+    <div class="cell"> <a href="https://www.ew.com/article/2016/04/01/weezer-people-of-new-york-parody" target="_blank"> <img src="photos/victory_0.jpg" alt="Victory and Bobby"/></a>
+      Season Finale of People of New York featured on Entertainment Weekly!</div>
+    <div class="cell">
+      <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/fTbRmOHJp1I" frameborder="0" allowfullscreen></iframe>
+      </div>
+      A bizarre short I created after seeing an old 90s toy commercial. </div>-->
+      <div class="cell">
+        <div class="video-container">
+          <iframe src="https://www.youtube.com/embed/iLNypL04zH0" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <b>Andy's Roadshow</b><br>
+        Original Content<br>
+        Writer, Director, & Editor</div>
+      <div class="cell">
+        <div class="video-container">
+          <iframe src="https://www.youtube.com/embed/0U5SCBko2XM" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <b>Tuber</b><br>
+        Original Content<br>
+        Writer, Director, & Editor</div>
+    </div>

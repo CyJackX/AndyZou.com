@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="description" content="Andy Zou's Portfolio: Sketch Comedy">
+<meta name="keywords" content="Andy Zou, Creative Director, Content Producer, Video Production, Technology Enthusiast, Freelance Filmmaker, Comedy Central, New York University, Web Development, Director, Sketch Comedy">
+<meta name="author" content="Andy Zou">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Open Graph tags for social media -->
+<meta property="og:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta property="og:description" content="Andy Zou's Portfolio: Sketch Comedy">
+<meta property="og:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta property="og:url" content="https://www.AndyZou.com">
+
+<!-- Twitter Card tags -->
+<meta name="twitter:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta name="twitter:description" content="Andy Zou's Portfolio: Sketch Comedy">
+<meta name="twitter:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@YoAndyZou">
+<title>Andy Zou Portfolio: Sketch Comedy</title>
+<!--#include virtual="scripts.html" -->
+</head>
+<body>
+<div id="wrapper"> 
+  <!--#include virtual="banner.shtml" -->
+  <div id="page" class="fade">
+    <h2 id="title">Comedy Sketches &amp; Bits</h2>
+    <br>
+    <div class="content">
+      <div class="cell">
+        <lite-youtube videoid="iLNypL04zH0" style="background-image: url('photos/roadshowthumb.jpg');"></lite-youtube>
+        <b>Andy's Roadshow</b><br>
+        Original Content<br>
+        Writer, Director, & Editor </div>
+      <div class="cell">
+        <lite-youtube videoid="0U5SCBko2XM"></lite-youtube>
+        <b>Tuber</b><br>
+        Original Content<br>
+        Writer, Director, DP, & Editor </div>
+        <div class="cell"> <a href="https://www.youtube.com/watch?v=nRWyNY1xmto" target="_blank"><img src="photos/beautyandthebowl.jpg" alt="Beauty and the Bowl Thumbnail"></a> <b>Beauty and the Bowl</b> ft. <a href="https://www.unclefunction.com/" target="_blank">Uncle Function</a><br>
+        Sketch Comedy ft. on Funny Or Die!<br>
+        Director, Cinematographer, & Editor </div>
+      <div class="cell">
+        <lite-youtube videoid="RhzSqWrjx7Q"></lite-youtube>
+        <b>Poly Bachelorette</b><br>
+        Original Content<br>
+        Writer, Director, DP, & Editor </div>
+<div class="cell">
+        <lite-youtube videoid="PEwfwxtwkWE"></lite-youtube>
+        <strong>Grandmother's Announcement</strong> <br>
+        Written by <a href="https://www.LuluKrause.com">Lulu Krause</a> <br>
+        Director, Cinematographer, & Editor </div>
+      <div class="cell">
+        <lite-youtube videoid="qSPdMoxsZoU"></lite-youtube>
+        <strong>Settling</strong> <br>
+        ft. <a href="https://www.gianmarcosoresi.com" target="_blank">Gianmarco Soresi</a> & <a href="https://www.megansass.com" target="_blank">Megan Sass</a>! <br>
+        Co-Director, Cinematographer, & Editor </div>
+      <div class="cell">
+        <lite-youtube videoid="qhXZjxXbW4s" style="background-image: url('photos/mta.JPG');"></lite-youtube>
+        <strong>MTA Shames NYC</strong> <br>
+        Featured on <a href="https://www.metro.us/see-video-mta-shames-nyc-so-comics-shame-transit-bigs-right-back/" target="_blank">MetroUS!</a> <br>
+        Director, Cinematographer, & Editor </div>
+<!--
+      <div class="cell">
+        <lite-youtube videoid="dQtJTZeBWUQ"></lite-youtube>
+        <strong>Ask Alexa</strong> <br>
+        Original Content<br>
+        Director, Cinematographer, & Editor </div>
+-->
+      <div class="cell">
+        <lite-youtube videoid="kNGsC9uqwVs"></lite-youtube>
+        <strong>Secret Agent Betrayal</strong> ft. <a href="https://geilcomedy.com/" target="_blank">Geil Comedy</a>! <br>
+        QuickieFest V <br>
+        Director, Writer, DP, & Editor </div>
+      <div class="cell">
+        <lite-youtube videoid="WnEJ9xsAkZ0"></lite-youtube>
+        <strong>The Painter</strong> <br>
+        QuickieFest II Audience Winner <br>
+        Co-Director, Cinematographer &amp; Editor</div>
+      <div class="cell">
+        <lite-youtube videoid="tgND22y7uuA"></lite-youtube>
+        <strong>The Only Dog Video You Need</strong> <br>
+        Funny or Die <br>
+        Co-Director, Cinematographer, & Editor </div>
+      <div class="cell">
+        <lite-youtube videoid="dcWy5-q_4I8"></lite-youtube>
+        <strong>Less</strong> ft. <a href="https://www.mattrogers.com" target="_blank">Matt Rogers</a> & <a href="https://www.tessaskara.com" target="_blank">Tessa Skara</a>! <br>
+        QuickieFest I <br>
+        Director, Writer, & Editor </div>
+      <div class="cell">
+        <lite-youtube videoid="5n_Zl5bhUhU"></lite-youtube>
+        <strong>Cocaine PSA</strong> <br>
+        ft. <a href="http://www.bridgeteverett.net/" target="_blank">Bridgette Everett</a>, <a href="https://www.instagram.com/ihatejoelkim/?hl=en" target="_blank">Joel Kim Booster</a> <br>
+        Director, Cinematographer, & Editor </div>
+      <div class ="cell vertical">
+        <lite-youtube videoid="7VyJBAoekbo" class="portrait"></lite-youtube>
+        <b>Last Meal</b><br>
+        Comedy Central Originals<br>
+        Writer, Director, & Editor </div>
+    </div>
+  </div>
+  <footer> 
+    <!--#include virtual="footer.html" --> 
+  </footer>
+</div>
+</body>
+</html>

@@ -1,0 +1,140 @@
+html {
+  overflow-y: scroll;
+}
+#wrapper {
+    max-width: 960px;
+    width: 100%;
+    margin-right: auto;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: small-caps;
+    font-size: large;
+    text-align: left;
+    margin-left: auto;
+    display:flex;
+    flex-wrap:wrap;
+    overflow: hidden;
+}
+#left {
+    /* [disabled]width: 38%; */
+    float: left;
+    /* [disabled]max-width: 367; */
+    flex: 1;
+}
+#banner {
+    /* [disabled]line-height: 0; */
+    text-align: center;
+    white-space: nowrap;
+    text-rendering: optimizeLegibility;
+    font-size: medium;
+}
+#menu {
+    float: left;
+}
+.menu-button {
+    display: none; /* hide the hamburger button by default */
+}
+#content {
+    flex: 2;
+    float: left;
+    /* [disabled]width: 61%; */
+    margin-left: 0px;
+    margin-top: 94px;
+    /* [disabled]max-width: 593px; */
+}
+h1 {
+    font-size: 75px;
+    margin-bottom: -43px;
+}
+h2 {
+    font-size: 38px;
+    /* [disabled]line-height: 0px; */
+    margin-bottom: -10px;
+}
+h3 {
+  font-size: 32px;
+  word-spacing: 1px;
+}
+h4 {
+
+}
+#caption {
+  text-align: center;
+  margin-bottom: 24px;
+  margin-right: auto;
+  margin-left: auto;
+}
+a:link {
+  text-decoration: underline;
+  color: #000000;
+}
+a:visited {
+  color: #000000;
+}
+iframe {
+    width: 567px;
+    height: 333px;
+    frameborder: 0;
+}
+name {
+
+
+
+}
+.vertical {
+    width: 49%;
+    frameborder: 0;
+    height: 522.667px;
+}
+.reel {
+    frameborder: 0;
+    height: 615px;
+    width: 49%;
+}
+
+#content img {
+  height: auto;
+}
+#content #about {
+  font-variant: normal;
+  text-align: left;
+  text-indent: 39px;
+}
+#social img {
+  width: 27px;
+}
+
+ul {
+    list-style-type: none; /* Removes the default bullets */
+    display: inline;
+    
+}
+ul li::before {
+    content: "- "; /* Adds a dash before each list item */
+}
+#rockstar {
+    text-align: justify;
+    padding-top: 34px;
+    padding-right: 34px;
+    padding-bottom: 34px;
+    padding-left: 34px;
+    font-variant: normal;
+}
+
+
+@media (max-width: 987px) { /* adjust breakpoint as needed */
+    .menu {
+        display: none; /* hide the menu */
+    }
+    .menu-button {
+    display: block; /* show the hamburger button */
+    text-align: center;
+    }
+    #content {
+        margin-top: 0;
+        padding-left:20px;
+        padding-right:20px;
+    }
+
+}

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="description" content="Andy Zou is a multi-disciplinary content creator, director, and tech enthusiast with over a decade of experience in social-first video content.">
+<meta name="keywords" content="Andy Zou, Creative Director, Content Producer, Video Production, Technology Enthusiast, Freelance Filmmaker, Comedy Central, New York University, Web Development, Director, Filmmaker">
+<meta name="author" content="Andy Zou">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Open Graph tags for social media -->
+<meta property="og:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta property="og:description" content="Andy Zou is a multi-disciplinary content creator, director, and tech enthusiast with over a decade of experience in the social-first video content.">
+<meta property="og:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta property="og:url" content="https://www.AndyZou.com">
+
+<!-- Twitter Card tags -->
+<meta name="twitter:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta name="twitter:description" content="Andy Zou is a multi-disciplinary content creator, director, and tech enthusiast with over a decade of experience in the social-first video content.">
+<meta name="twitter:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@YoAndyZou">
+<title>Andy Zou - Creative | Director | Weirdo</title>
+<!--#include virtual="scripts.html" -->
+</head>
+<body>
+<div id="wrapper">
+  <!--#include virtual="banner.shtml" -->
+  <div id="page" class="fade">
+     <h2 id="title">Movers & Shakers Demo</h2>
+    <div class="content">
+      <div class ="cell vertical">
+        <div class="video-container vertical">
+          <iframe src="https://www.youtube.com/embed/2Z4VgVKrveM" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <b>Take a Deep F***ing Breath</b><br>
+        Comedy Central Originals<br>
+        Writer & Director </div>
+      <div class ="cell vertical"> <a href="/makingit.shtml"><img class="verticalimg" src="photos/ep9still.jpg" alt="Still from Snapchat Series Making It"/></a><a href="/makingit.shtml"><b>Making It</b><br>
+        </a>Snapchat Originals 10 Episodes<br>
+        Director, Cinematographer & Editor </div>
+      <div class ="cell vertical">
+        <div class="video-container vertical">
+          <iframe src="https://www.youtube.com/embed/DJCgT1gw8nc" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <b>Vesting Up</b><br>
+        Comedy Central Originals<br>
+        Writer, Director, & Editor
+    </div>
+        <div class ="cell vertical">
+        <div class="video-container vertical">
+          <blockquote class="instagram-media reel" data-instgrm-permalink="https://www.instagram.com/reel/Cqs1xAFpnwI/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14"></blockquote>
+      <script async src="https://www.instagram.com/embed.js"></script>
+        </div>
+        <b>Freezing Your Eggs</b><br>
+        Comedy Central Originals<br>
+        Writer, Director, & Editor
+    </div>
+        <div class ="cell vertical">
+        <div class="video-container vertical">
+          <blockquote class="instagram-media reel" data-instgrm-permalink="https://www.instagram.com/reel/CsRfrGENBiQ/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14"></blockquote>
+  <script async src="https://www.instagram.com/embed.js"></script>
+        </div>
+        <b>Last Meal</b><br>
+        Comedy Central Originals<br>
+        Writer, Director, & Editor
+    </div>
+        
+      
+  </div>
+    <footer>
+<!--#include virtual="footer.html" -->
+</footer>
+</div>
+</div>
+</body>
+</html>

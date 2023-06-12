@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="description" content="Andy Zou is a multi-disciplinary content creator, director, and tech enthusiast with over a decade of experience in social-first video content.">
+<meta name="keywords" content="Andy Zou, Creative Director, Content Producer, Video Production, Technology Enthusiast, Freelance Filmmaker, Comedy Central, New York University, Web Development, Director, Filmmaker, about, biography, history">
+<meta name="author" content="Andy Zou">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Open Graph tags for social media -->
+<meta property="og:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta property="og:description" content="Andy Zou is a multi-disciplinary content creator, director, and tech enthusiast with over a decade of experience in the social-first video content.">
+<meta property="og:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta property="og:url" content="https://www.AndyZou.com">
+
+<!-- Twitter Card tags -->
+<meta name="twitter:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta name="twitter:description" content="Andy Zou is a multi-disciplinary content creator, director, and tech enthusiast with over a decade of experience in the social-first video content.">
+<meta name="twitter:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@YoAndyZou">
+<title>Andy Zou - About</title>
+<!--#include virtual="scripts.html" -->
+</head>
+<body>
+
+<div id="wrapper">
+  <!--#include virtual="banner.shtml" -->
+  
+  <div id="page" class="fade">
+    <h2 id="title"></h2>
+    <div id="about"> 
+      <!--        <img src="photos/10259930_658796824158216_4342821014715206294_n.jpg" alt="Andy Zou mugging for the camera at a fashion shoot."/>--> 
+      <img src="photos/portrait.jpg" alt="Andy Zou Portrait">
+      <p class="bio">Andy is a jack-of-all-trades Renaissance guy of creative digital content.  A director, cinematographer, editor, writer, and sometimes coder, Andy has worked on hundreds of short and long-form projects over the past decade, establishing a reputation as a go-to guy for turnkey video and content production.  Past clients have included Comedy Central, Snapchat, Color of Change, Barkbox, Clickhole, The Architect's Newspaper, MOMA, and many others.</p>
+      <!--    <img border=1 src="photos/B35CVIbIgAAIQg-.jpg" style="width:70%" alt=""/>-->
+      <p class="bio">Andy graduated from New York University's Experimental Theatre program with a BFA in Drama and a Minor in Mathematics &amp; Computer Science.</p>
+    </div>
+    <div id="about" class="contact"> <strong><a href="mailto:Andy@AndyZou.com">Andy@AndyZou.com</a><br>
+      <a href="https://www.twitter.com/YoAndyZou">Twitter</a><br>
+      <a href="https://www.linkedin.com/in/andyzou/">LinkedIn<br>
+      </a> <a href="https://www.youtube.com/@YoAndyZou">Youtube</a></strong> </div>
+    
+  </div>
+    <footer> 
+      <!--#include virtual="footer.html" --> 
+    </footer>
+</div>
+    
+</body>
+</html>

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="description" content="Andy Zou's Portfolio: Quanta">
+<meta name="keywords" content="Andy Zou, Creative Director, Content Producer, Video Production, Technology Enthusiast, Freelance Filmmaker, Comedy Central, New York University, Web Development, Director, Quanta">
+<meta name="author" content="Andy Zou">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Open Graph tags for social media -->
+<meta property="og:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta property="og:description" content="Andy Zou's Portfolio: Quanta">
+<meta property="og:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta property="og:url" content="https://www.AndyZou.com">
+
+<!-- Twitter Card tags -->
+<meta name="twitter:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta name="twitter:description" content="Andy Zou's Portfolio: Quanta">
+<meta name="twitter:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@YoAndyZou">
+<title>Andy Zou Portfolio: Quanta</title>
+<!--#include virtual="scripts.html" -->
+</head>
+<body>
+<div id="wrapper"> 
+  <!--#include virtual="banner.shtml" -->
+  <div id="page" class="fade">
+    <h2 id="title">Quanta</h2>
+    <p id="about" class="bio">Hello!  Welcome to my portfolio website.  This is a custom page to showcase videos that may be more relevant to the tone of informative, non-fiction content with interviews and information.  While the bulk of my recent experience is in short-form comedy, I hope it does not dissuade you from considering my technical skills and experience in service of other tones.  And of course, check out the rest of the website!</p>
+    <br>
+    <div class="content">
+      <div class="cell">
+        <div class="video-container">
+          <iframe src="https://www.youtube.com/embed/HpBRGXK-QNs" frameborder="0" allowfullscreen></iframe>
+          </div>
+          <strong>Duverger's Law</strong> <br>
+          <a href="https://www.electionscience.org">ElectionScience.Org</a> <br>
+          Creator & Co-writer 
+      </div>
+      <div class="cell">
+        <div class="video-container">
+          <iframe src="https://player.vimeo.com/video/128175007" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+          </div>
+          <strong>Barclays Center Green Roof</strong> <br>
+          <a href="https://www.archpaper.com">The Architect's Newspaper</a> <br>
+          Cinematographer & Editor 
+      </div>
+      <div class="cell">
+        <div class="video-container">
+          <iframe src="https://player.vimeo.com/video/97932169" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+          </div>
+          <strong>Inside the Studio with Mary Lai</strong> <br>
+          Young and Able <br>
+          Cinematographer & Editor 
+      </div>
+    </div>
+  </div>
+  <footer> 
+    <!--#include virtual="footer.html" --> 
+  </footer>
+</div>
+</body>
+</html>

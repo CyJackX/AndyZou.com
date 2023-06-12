@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="description" content="Andy Zou is a multi-disciplinary content creator, director, and tech enthusiast with over a decade of experience in the social-first video content.">
+<meta name="keywords" content="Andy Zou, Creative Director, Content Producer, Video Production, Technology Enthusiast, Freelance Filmmaker, Comedy Central, New York University, Web Development">
+<meta name="author" content="Andy Zou">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Open Graph tags for social media -->
+<meta property="og:title" content="Andy Zou - Creative | Director | Weirdor">
+<meta property="og:description" content="Andy Zou is a multi-disciplinary content creator, director, and tech enthusiast with over a decade of experience in the social-first video content.">
+<meta property="og:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta property="og:url" content="https://www.AndyZou.com">
+
+<!-- Twitter Card tags -->
+<meta name="twitter:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta name="twitter:description" content="Andy Zou is a multi-disciplinary content creator, director, and tech enthusiast with over a decade of experience in the social-first video content.">
+<meta name="twitter:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@YoAndyZou">
+<title>Andy Zou - Creative | Director | Weirdo</title>
+<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+<div id="wrapper">
+  <div id="left"> 
+    <!--#include virtual="menu.html" --> 
+  </div>
+  <div align=center id="content">
+    <div id="caption">
+      <h2>Latest Projects!</h2>
+    </div>
+    <p>Directed Rich Friend ft. <a href="https://www.youtube.com/@Anwar" target="_blank">Anwar</a></p>
+    <iframe src="https://www.youtube.com/embed/gSojwTO5QZs" frameborder="0" allowfullscreen></iframe>
+    <!--  <p>Freezing your Cadbury Eggs</p>
+
+  <blockquote class="instagram-media reel" data-instgrm-permalink="https://www.instagram.com/reel/Cqs1xAFpnwI/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14"> <a href="https://www.instagram.com/reel/Cqs1xAFpnwI/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank">A post shared by Comedy Central (@comedycentral)</a> </blockquote>
+  <script async src="//www.instagram.com/embed.js"></script>
+-->
+    <p>Wrote & Directed The Litterbox Office</p>
+    <iframe src="https://www.youtube.com/embed/KIdN_iYBW7A?controls=2" frameborder="0" allowfullscreen></iframe>
+    <p>Wrote & Directed The Polyamorous RomCom ft. <a href="https://www.youtube.com/@yunggravy" target=”_blank”>Yung Gravy</a></p>
+    <iframe src="https://www.youtube.com/embed/XhMz5vRlya8" frameborder="0" allowfullscreen></iframe>
+    <p>Wrote & Directed The Living Funeral Home with <a href="https://www.youtube.com/@lalamilan" target=”_blank”>Lala Milan</a></p>
+    <iframe src="https://www.youtube.com/embed/zcqkqql5VW0" frameborder="0" allowfullscreen></iframe>
+    <p>Wrote & Directed Taking a Deep F***ing Breath and Vesting Up</p>
+    <iframe class="vertical" src="https://www.youtube.com/embed/2Z4VgVKrveM" frameborder="0" allowfullscreen></iframe>
+    <iframe class="vertical" src="https://www.youtube.com/embed/DJCgT1gw8nc" frameborder="0" allowfullscreen></iframe>
+    <p>Wrote & Directed The Rebirthing Center</p>
+    <iframe src="https://www.youtube.com/embed/BXOaAgDnpd8" frameborder="0" allowfullscreen></iframe>
+    <p>Wrote & Directed The Man Who Became a Remote-Controlled Boss</p>
+    <iframe src="https://www.youtube.com/embed/2PPkDxOul_0" frameborder="0" allowfullscreen></iframe>
+    <p>Wrote & Directed iContact ft. <a href="https://www.youtube.com/@DeStorm" target=”_blank”>DeStorm</a>:</p>
+    <iframe src="https://www.youtube.com/embed/aQN6jBk_LWc" frameborder="0" allowfullscreen></iframe>
+    <p>Wrote & Directed Teen Uncle ft. <a href="https://www.youtube.com/@AdamW" target=”_blank”>Adam Waheed</a>:</p>
+    <iframe src="https://www.youtube.com/embed/YUJIjQ0MytM" frameborder="0" allowfullscreen></iframe>
+    <p>Wrote & Directed Whameo ft. <a href="https://www.youtube.com/@SvenJohnsonBestYoutuber" target=”_blank”>Sven Johnson:</a></p>
+    <iframe src="https://www.youtube.com/embed/GBG1KLVBQPA" frameborder="0" allowfullscreen></iframe>
+    <p>As of March 2020, Andy got a job producing for Comedy Central's social channels!</p>
+    <p>A Music Video making the comedy festival rounds :)</p>
+    <iframe src="https://player.vimeo.com/video/415652162" frameborder="0" allowfullscreen></iframe>
+    <p>Co-created a parody of the Bachelorette, producing, directing, shooting, and editing!</p>
+    <iframe src="https://www.youtube.com/embed/RhzSqWrjx7Q" frameborder="0" allowfullscreen></iframe>
+    <p>Directed, Shot, and Edited a 10 episode series <a href="/makingit.shtml">"Making It"</a> for Snapchat's new original content initiative!</p>
+    <a href="/makingit.shtml"><img src="photos/Episode 10 V1.00_00_57_13.Still008.jpg"alt="" width=50%/></a>
+    <p>Directed and DP'd a branded spot for Combos the snack brand!</p>
+    <iframe src="https://www.youtube.com/embed/lMFubod8Gdc" frameborder="0" allowfullscreen></iframe>
+    <p><a href="myrtleandwilloughby.shtml">Cinematographer for a 7 episode webseries about Brooklyn's Millenial Crimes Unit!</p>
+    <img src="photos/mw.jpg" width="592" alt=""/></a>
+    <p>Director, Cinematographer</p>
+    <iframe src="https://player.vimeo.com/video/334780888?color=08fc18" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    <p>Cinematographer</p>
+    <iframe src="https://www.youtube.com/embed/6a-2hDK3H-w" frameborder="0" allowfullscreen></iframe>
+    <p>Directed a music video parody of Natalie Imbruglia's "Torn" for <a href="https://www.annaroisman.com/">Anna Roisman</a> of HQ and The Unemployed Show</p>
+    <iframe src="https://www.youtube.com/embed/AzjRdPLgj_k" frameborder="0" allowfullscreen></iframe>
+    <p>Directed and VFX'd a music video about an iconic Abstract Expressionist...</p>
+    <iframe src="https://www.youtube.com/embed/f53aKCMl7FQ" frameborder="0" allowfullscreen></iframe>
+    <p>For QuickieFest V, a take on a classic spy movie trope:</p>
+    <iframe src="https://www.youtube.com/embed/kNGsC9uqwVs" frameborder="0" allowfullscreen></iframe>
+    <p>Cinematographer for a UCB sketch!</p>
+    <iframe src="https://www.youtube.com/embed/z3fGGF-gi7o" frameborder="0" allowfullscreen></iframe>
+    <p>Do you like Antiques Roadshow?  Well, how about...Andy's Roadshow?</p>
+    <iframe src="https://www.youtube.com/embed/iLNypL04zH0" frameborder="0" allowfullscreen></iframe>
+    <p>Tales as old as time... <br>
+      Director, Cinematographer, and Editor for a sketch from Uncle Function!</p>
+    <iframe src="https://www.youtube.com/embed/nRWyNY1xmto" frameborder="0" allowfullscreen></iframe>
+    <p>Directed, Shot, and Edited a scene about the future of romance!</p>
+    <iframe src="https://www.youtube.com/embed/0238dn65O0w" frameborder="0" allowfullscreen></iframe>
+    <p>Shot a sketch by Nanners Comedy for the New Yorker!</p>
+    <iframe src="https://www.youtube.com/embed/zewomnLNxZA" frameborder="0" allowfullscreen></iframe>
+    <p>Be careful with your heart when you cross the mafia...</p>
+    <iframe src="https://www.youtube.com/embed/68WPeLbzc5o" frameborder="0" allowfullscreen></iframe>
+    <p>It's hard to be a model!</p>
+    <iframe src="https://www.youtube.com/embed/dcWy5-q_4I8" frameborder="0" allowfullscreen></iframe>
+    <p><a href="https://www.ew.com/article/2016/04/01/weezer-people-of-new-york-parody" target="_blank">Season Finale of People of New York featured on Entertainment Weekly!</p>
+    <img src="photos/victory_0.jpg" width="592" alt=""/></a>
+    <p>A bizarre short I created after seeing an old 90s toy commercial.</p>
+    <iframe src="https://www.youtube.com/embed/fTbRmOHJp1I" frameborder="0" allowfullscreen></iframe>
+    <p>A CH2 Music video about POWER NAPPING.  Featuring Reggie Watts!</p>
+    <iframe src="https://www.youtube.com/embed/1hekO_UslLk" frameborder="0" allowfullscreen></iframe>
+    <p>Another one of Andy's Originals!  A VFX-heavy surreal alternative to Ubers...Tuber!</p>
+    <iframe src="https://www.youtube.com/embed/0U5SCBko2XM" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
+</body>
+</html>

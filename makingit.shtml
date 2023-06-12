@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="description" content="Andy Zou's Portfolio: Making It">
+<meta name="keywords" content="Andy Zou, Creative Director, Content Producer, Video Production, Technology Enthusiast, Freelance Filmmaker, Comedy Central, New York University, Web Development, Director, Filmmaker, Snapchat, Making It">
+<meta name="author" content="Andy Zou">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Open Graph tags for social media -->
+<meta property="og:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta property="og:description" content="Andy Zou's Portfolio: Making It">
+<meta property="og:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta property="og:url" content="https://www.AndyZou.com">
+
+<!-- Twitter Card tags -->
+<meta name="twitter:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta name="twitter:description" content="Andy Zou's Portfolio: Making It">
+<meta name="twitter:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@YoAndyZou">
+<title>Making It</title>
+<!--#include virtual="scripts.html" -->
+</head>
+<body>
+<div id="wrapper">
+  <!--#include virtual="banner.shtml" -->
+  <div id="page" class="fade">
+    <h2 id="title">Making It</h2>
+    <p id="about">Director, Cinematographer, and Editor for this 10 part webseries for <a href="https://snaporiginals.snapchat.com/" target="_blank">Snap Originals!</a>
+    Written by Comedian and Entertainer <a href="https://www.instagram.com/davemizzoni/?hl=en" target="_blank">Dave Mizzoni</a></p><br>
+    <div class="content"> 
+      <!--
+      <div class="cell vertical">
+        <lite-youtube class="portrait" videoid="dwXaeTYc3Tg"></lite-youtube>
+      </div>
+      <div class="cell vertical">
+        <lite-youtube class="portrait" videoid="bewb5mvMt2I"></lite-youtube>
+      </div>
+      <div class="cell vertical">
+        <lite-youtube class="portrait" videoid="8Y7yt1P1gDc"></lite-youtube>
+      </div>
+      <div class="cell vertical">
+        <lite-youtube class="portrait" videoid="MufrKX9LY_Q"></lite-youtube>
+      </div>
+      <div class="cell vertical">
+        <lite-youtube class="portrait" videoid="OomH2JjVwrw"></lite-youtube>
+      </div>
+      <div class="cell vertical">
+        <lite-youtube class="portrait" videoid="Y3335Qn42qI"></lite-youtube>
+      </div>
+      <div class="cell vertical">
+        <lite-youtube class="portrait" videoid="wtLmfuCHG2A"></lite-youtube>
+      </div>
+      <div class="cell vertical">
+        <lite-youtube class="portrait" videoid="S1L7zvRjuoM"></lite-youtube>
+      </div>
+      <div class="cell vertical">
+        <lite-youtube class="portrait" videoid="kZTRyPCdhes"></lite-youtube>
+      </div>
+      <div class="cell vertical">
+        <lite-youtube class="portrait" videoid="AROtp_lq240"></lite-youtube>
+      </div>
+    </div>
+-->
+      
+      <div class="cell vertical">
+        <div class="video-container vertical">
+          <iframe src="https://www.youtube.com/embed/dwXaeTYc3Tg" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="cell vertical">
+        <div class="video-container vertical">
+          <iframe src="https://www.youtube.com/embed/bewb5mvMt2I" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="cell vertical">
+        <div class="video-container vertical">
+          <iframe src="https://www.youtube.com/embed/8Y7yt1P1gDc" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="cell vertical">
+        <div class="video-container vertical">
+          <iframe src="https://www.youtube.com/embed/MufrKX9LY_Q" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="cell vertical">
+        <div class="video-container vertical">
+          <iframe src="https://www.youtube.com/embed/OomH2JjVwrw" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="cell vertical">
+        <div class="video-container vertical">
+          <iframe src="https://www.youtube.com/embed/Y3335Qn42qI" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="cell vertical">
+        <div class="video-container vertical">
+          <iframe src="https://www.youtube.com/embed/wtLmfuCHG2A" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="cell vertical">
+        <div class="video-container vertical">
+          <iframe src="https://www.youtube.com/embed/S1L7zvRjuoM" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="cell vertical">
+        <div class="video-container vertical">
+          <iframe src="https://www.youtube.com/embed/kZTRyPCdhes" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="cell vertical">
+        <div class="video-container vertical">
+          <iframe src="https://www.youtube.com/embed/AROtp_lq240" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer> 
+    <!--#include virtual="footer.html" --> 
+  </footer>
+</div>
+</body>
+</html>

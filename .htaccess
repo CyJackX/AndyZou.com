@@ -1,0 +1,17 @@
+#Alternate default index page
+DirectoryIndex index.shtml
+
+Order deny,allow
+ErrorDocument 400 /404.html
+ErrorDocument 401 /404.html
+ErrorDocument 403 /404.html
+ErrorDocument 404 /404.html
+ErrorDocument 500 /404.html
+
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?andyzou.com [NC]
+RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?google.com [NC]
+RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?otherapprovedwebsite.com [NC]
+RewriteRule \.(jpg|jpeg|png|gif)$ - [F]
+

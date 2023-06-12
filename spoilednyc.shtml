@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="description" content="Andy Zou's Portfolio: SpoiledNYC">
+<meta name="keywords" content="Andy Zou, Creative Director, Content Producer, Video Production, Technology Enthusiast, Freelance Filmmaker, Comedy Central, New York University, Web Development, Director, Filmmaker, SpoiledNYC">
+<meta name="author" content="Andy Zou">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Open Graph tags for social media -->
+<meta property="og:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta property="og:description" content="Andy Zou's Portfolio: SpoiledNYC">
+<meta property="og:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta property="og:url" content="https://www.AndyZou.com">
+
+<!-- Twitter Card tags -->
+<meta name="twitter:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta name="twitter:description" content="Andy Zou's Portfolio: SpoiledNYC">
+<meta name="twitter:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@YoAndyZou">
+<title>SpoiledNYC</title>
+<!--#include virtual="scripts.html" -->
+</head>
+<body>
+<div id="wrapper"> 
+  <!--#include virtual="banner.shtml" -->
+  <div id="page" class="fade">
+    <h2 id="title">SpoiledNYC</h2>
+    <p id="about">Director, Cinematographer, and Editor for <a href="https://www.SpoiledNYC.com">SpoiledNYC.com!</a> <br>
+      Writers <a href="https://www.gianmarcosoresi.com" target="_blank">Gianmarco Soresi</a> & <a href="https://www.megansass.com" target="_blank">Megan Sass</a></p>
+    <br>
+    <div class="content">
+      <div class="cell">
+        <lite-youtube videoid="eUfz8WSA5wI"></lite-youtube>
+        <strong>DickPicr</strong></div>
+      <div class="cell">
+        <lite-youtube videoid="V_uGZ48L8Tc"></lite-youtube>
+        <strong>Long-Distance in NYC</strong></div>
+      <div class="cell">
+        <lite-youtube videoid="kcqvfP5Q4ec"></lite-youtube>
+        <strong>NYC Subway Struggles</strong></div>
+      <div class="cell">
+        <lite-youtube videoid="_krcajJpMlA"></lite-youtube>
+        <strong>When were you a Real New Yorker?</strong></div>
+      <div class="cell wide">
+        <hr>
+        <h2>"The Last Millenials"</h2>
+        <p id="about">A post-apocalyptic webseries about the last two millenials on Earth.</p>
+      </div>
+      <div class="cell wide">
+        <lite-youtube videoid="0238dn65O0w"></lite-youtube>
+      </div>
+      <div class="cell">
+        <lite-youtube videoid="hbSLFtYrzZI"></lite-youtube>
+      </div>
+      <div class="cell">
+        <lite-youtube videoid="3zpPmUg_DTY"></lite-youtube>
+      </div>
+      <div class="cell wide"><hr>
+      <h2>"How-to NYC"</h2><p id="about">Some satirical tips for tourists!</p></div>
+      <div class="cell wide">
+        <lite-youtube videoid="7OaOE4jxbc8"></lite-youtube>
+      </div>
+      <div class="cell">
+        <lite-youtube videoid="LGb3yPZGJeA"></lite-youtube>
+      </div>
+      <div class="cell">
+        <lite-youtube videoid="r8PH-1LWPrY"></lite-youtube>
+      </div>
+    </div>
+  </div>
+  <footer> 
+    <!--#include virtual="footer.html" --> 
+  </footer>
+</div>
+</body>
+</html>

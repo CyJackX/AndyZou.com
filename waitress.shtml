@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="description" content="Andy Zou's Portfolio: The Honest Waitress">
+<meta name="keywords" content="Andy Zou, Creative Director, Content Producer, Video Production, Technology Enthusiast, Freelance Filmmaker, Comedy Central, New York University, Web Development, Director, Filmmaker, The Honest Waitress">
+<meta name="author" content="Andy Zou">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Open Graph tags for social media -->
+<meta property="og:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta property="og:description" content="Andy Zou's Portfolio: The Honest Waitress">
+<meta property="og:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta property="og:url" content="https://www.AndyZou.com">
+
+<!-- Twitter Card tags -->
+<meta name="twitter:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta name="twitter:description" content="Andy Zou's Portfolio: The Honest Waitress">
+<meta name="twitter:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@YoAndyZou">
+<title>Andy Zou: The Honest Waitress</title>
+<!--#include virtual="scripts.html" -->
+</head>
+<body>
+<div id="wrapper"> 
+  <!--#include virtual="banner.shtml" -->
+  <div id="page" class="fade">
+    <h2 id="title">The Honest Waitress</h2>
+    <p id="about">Director for a short comedy series for PitTV <br>
+      Written by Leila Graham</p>
+    <br>
+    <div class="content">
+      <div class="cell">
+        <lite-youtube videoid="zlFyjWf4hOk"></lite-youtube>
+      </div>
+      <div class="cell">
+        <lite-youtube videoid="0SX0n9FG_GY"></lite-youtube>
+      </div>
+      <div class="cell">
+        <lite-youtube videoid="Gk7n1WSpxXg"></lite-youtube>
+      </div>
+      <div class="cell">
+        <lite-youtube videoid="2z09RB3wsGk"></lite-youtube>
+      </div>
+      <div class="cell">
+        <lite-youtube videoid="FUto6VeJfbI"></lite-youtube>
+      </div>
+    </div>
+  </div>
+</div>
+<footer> 
+  <!--#include virtual="footer.html" --> 
+</footer>
+</div>
+</body>
+</html>
