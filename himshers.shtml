@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="description" content="Andy Zou is a multi-disciplinary content creator, director, and tech enthusiast with over a decade of experience in social-first video content.">
+<meta name="keywords" content="Andy Zou, Creative Director, Content Producer, Video Production, Technology Enthusiast, Freelance Filmmaker, Comedy Central, New York University, Web Development, Director, Filmmaker">
+<meta name="author" content="Andy Zou">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Open Graph tags for social media -->
+<meta property="og:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta property="og:description" content="Andy Zou is a multi-disciplinary content creator, director, and tech enthusiast with over a decade of experience in the social-first video content.">
+<meta property="og:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta property="og:url" content="https://www.AndyZou.com">
+
+<!-- Twitter Card tags -->
+<meta name="twitter:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta name="twitter:description" content="Andy Zou is a multi-disciplinary content creator, director, and tech enthusiast with over a decade of experience in the social-first video content.">
+<meta name="twitter:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@YoAndyZou">
+<title>Andy Zou - hims & hers Demo Reels</title>
+
+<!--#include virtual="scripts.html" -->
+</head>
+</head>
+
+<body>
+<div id="wrapper"> 
+  <!--#include virtual="banner.shtml" -->
+  <div id="page" class="fade">
+    <h2 id="title">hims & hers Demo Reels</h2>
+    <p id="about" class="bio">A collection of videos I worked on showcasing motion graphic skills.  Feel free to browse the rest of the site after reviewing this hidden page!</p><br>
+    <div class="content">
+<div class="cell">
+        <lite-youtube videoid="iLNypL04zH0"></lite-youtube>
+        <b>Andy's Roadshow</b><br>
+        Original Content<br>
+        Writer, Director, & Editor
+        <br>Compositing, Keying</div>
+        
+      <div class="cell">
+        <lite-youtube videoid="0U5SCBko2XM"></lite-youtube>
+        <b>Tuber</b><br>
+        Original Content<br>
+        Writer, Director, DP, & Editor
+        <br>Compositing, Keying, Animation</div>
+      <div class="cell">
+        <lite-youtube videoid="_SRIskz2JOY" params="start=1" ></lite-youtube>
+        <b>Securocam 3000</b><br>
+        IFC Comedy Crib<br>
+        Director, Co-Writer, Editor
+        <br>Compositing, Keying, Animation, 3D Cameras</div>
+      <div class="cell">
+        <lite-youtube videoid="f53aKCMl7FQ" params="start=106"></lite-youtube>
+        <b>Jackson Pollack</b> by <a href="https://www.douglaswidick.com">Douglas Widick</a><br>
+        Parody Music Video<br>
+        Director & Animator
+        <br>Compositing, Keying, Animation, 3D Cameras</div>
+      <div class="cell">
+        <lite-youtube videoid="aQN6jBk_LWc"></lite-youtube>
+        <b>iContact</b> ft. <a href="https://www.youtube.com/@DeStorm" target=”_blank”>DeStorm</a> <br>
+        Writer, Director, & Editor 
+        <br>Compositing, Keying, Animation, Cinema 4D</div>
+      <div class="cell">
+        <lite-youtube videoid="HpBRGXK-QNs" params="start=60"></lite-youtube>
+        <strong>Duverger's Law</strong> <br>
+        Center for Election Science. <br>
+        Producer, Writer, Editor</div>
+      
+        <div class="cell vertical">
+        <div class="video-container vertical">
+          <iframe src="https://www.youtube.com/embed/iZDqZ6Bq1yI" frameborder="0" allowfullscreen></iframe>
+            
+        </div>
+            <br>
+            Keying, Compositing, Animation
+      </div>
+    </div>
+  </div>
+</div>
+<footer> 
+  <!--#include virtual="footer.html" --> 
+</footer>
+</body>
+</html>
