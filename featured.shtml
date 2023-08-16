@@ -5,10 +5,14 @@
     <div class="content">
         <div class="cell wide">
             <img src="photos/tellmywife.jpg" alt="Tell My Wife Poster"/>
-<!--        <lite-youtube videoid="daNydp3mpI0" style="background-image: url('photos/tellmywife.jpg');"></lite-youtube>-->
+        <lite-youtube videoid="daNydp3mpI0" style="background-image: url('photos/tellmywife.jpg');"></lite-youtube>
         <strong>Tell My Wife</strong><br>
         Big Apple Film Fest 2023<br>
         Co-Director, Co-Writer, Co-Editor with <a href="https://www.KatieSicking.com" target="_blank">Katie Sicking</a></div>
+        <div class="cell wide">
+        <lite-youtube videoid="lINEvUCMW_Y" style="background-image: url('photos/AfterEffectsReelThumb.png');"></lite-youtube>
+        <b>After Effects Reel</b></div>
+        
       <div class="cell">
         <lite-youtube videoid="BXOaAgDnpd8"></lite-youtube>
         <b>The Rebirthing Center</b><br>
@@ -24,11 +28,13 @@
         <b>Remote Control Boss</b><br>
         Comedy Central Originals<br>
         Writer, Director, & Editor </div>
+<!--
       <div class="cell">
         <lite-youtube videoid="YUJIjQ0MytM"></lite-youtube>
         <b>Teen Uncle</b> ft. <a href="https://www.youtube.com/@AdamW" target=”_blank”>Adam Waheed</a><br>
         Comedy Central Originals
         <br>Writer, Director, & Editor </div>
+-->
       <div class ="cell vertical">
         <lite-youtube videoid="2Z4VgVKrveM" class="portrait" style="background-image: url('photos/breaththumb.jpg');"></lite-youtube>
         <b>Take a Deep F***ing Breath</b><br>

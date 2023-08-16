@@ -26,61 +26,68 @@
 </head>
 
 <body>
-<div id="wrapper"> 
-  <!--#include virtual="banner.shtml" -->
-  <div id="page" class="fade">
-    <h2 id="title">hims & hers Demo Reels</h2>
-    <p id="about" class="bio">A collection of videos I worked on showcasing motion graphic skills.  Feel free to browse the rest of the site after reviewing this hidden page!</p><br>
-    <div class="content">
-<div class="cell">
-        <lite-youtube videoid="iLNypL04zH0"></lite-youtube>
-        <b>Andy's Roadshow</b><br>
-        Original Content<br>
-        Writer, Director, & Editor
-        <br>Compositing, Keying</div>
-        
-      <div class="cell">
-        <lite-youtube videoid="0U5SCBko2XM"></lite-youtube>
-        <b>Tuber</b><br>
-        Original Content<br>
-        Writer, Director, DP, & Editor
-        <br>Compositing, Keying, Animation</div>
-      <div class="cell">
-        <lite-youtube videoid="_SRIskz2JOY" params="start=1" ></lite-youtube>
-        <b>Securocam 3000</b><br>
-        IFC Comedy Crib<br>
-        Director, Co-Writer, Editor
-        <br>Compositing, Keying, Animation, 3D Cameras</div>
-      <div class="cell">
-        <lite-youtube videoid="f53aKCMl7FQ" params="start=106"></lite-youtube>
-        <b>Jackson Pollack</b> by <a href="https://www.douglaswidick.com">Douglas Widick</a><br>
-        Parody Music Video<br>
-        Director & Animator
-        <br>Compositing, Keying, Animation, 3D Cameras</div>
-      <div class="cell">
-        <lite-youtube videoid="aQN6jBk_LWc"></lite-youtube>
-        <b>iContact</b> ft. <a href="https://www.youtube.com/@DeStorm" target=”_blank”>DeStorm</a> <br>
-        Writer, Director, & Editor 
-        <br>Compositing, Keying, Animation, Cinema 4D</div>
-      <div class="cell">
-        <lite-youtube videoid="HpBRGXK-QNs" params="start=60"></lite-youtube>
-        <strong>Duverger's Law</strong> <br>
-        Center for Election Science. <br>
-        Producer, Writer, Editor</div>
-      
-        <div class="cell vertical">
-        <div class="video-container vertical">
-          <iframe src="https://www.youtube.com/embed/iZDqZ6Bq1yI" frameborder="0" allowfullscreen></iframe>
-            
+<div class="splash">
+        <div class="image-wrapper">
+          <a href="home.shtml"><img src="/photos/figure.jpg" alt="Andy's Roadshow Splash Picture" class="splash-image"/></a>
         </div>
-            <br>
-            Keying, Compositing, Animation
+    </div>
+<div class="hiddenbelow" id="splashwrapper">
+  <div id="wrapper"> 
+    <!--#include virtual="banner.shtml" -->
+    <div id="page" class="fade">
+      <h2 id="title">hims & hers Demo Reels</h2>
+      <p id="about" class="bio">A collection of videos I worked on showcasing motion graphic skills.  Feel free to browse the rest of the site after reviewing this hidden page!</p><br><br>
+      <div class="content">
+  <div class="cell">
+    <lite-youtube videoid="iLNypL04zH0"></lite-youtube>
+    <b>Andy's Roadshow</b><br>
+    Original Content<br>
+    Writer, Director, & Editor
+    <br>Compositing, Keying</div>
+        
+        <div class="cell">
+          <lite-youtube videoid="0U5SCBko2XM"></lite-youtube>
+          <b>Tuber</b><br>
+          Original Content<br>
+          Writer, Director, DP, & Editor
+          <br>Compositing, Keying, Animation</div>
+        <div class="cell">
+          <lite-youtube videoid="_SRIskz2JOY" params="start=1" ></lite-youtube>
+          <b>Securocam 3000</b><br>
+          IFC Comedy Crib<br>
+          Director, Co-Writer, Editor
+          <br>Compositing, Keying, Animation, 3D Cameras</div>
+        <div class="cell">
+          <lite-youtube videoid="f53aKCMl7FQ" params="start=106"></lite-youtube>
+          <b>Jackson Pollack</b> by <a href="https://www.douglaswidick.com">Douglas Widick</a><br>
+          Parody Music Video<br>
+          Director & Animator
+          <br>Compositing, Keying, Animation, 3D Cameras</div>
+        <div class="cell">
+          <lite-youtube videoid="aQN6jBk_LWc"></lite-youtube>
+          <b>iContact</b> ft. <a href="https://www.youtube.com/@DeStorm" target=”_blank”>DeStorm</a> <br>
+          Writer, Director, & Editor 
+          <br>Compositing, Keying, Animation, Cinema 4D</div>
+        <div class="cell">
+          <lite-youtube videoid="HpBRGXK-QNs" params="start=60"></lite-youtube>
+          <strong>Duverger's Law</strong> <br>
+          Center for Election Science. <br>
+          Producer, Writer, Editor</div>
+        
+        <div class="cell vertical">
+          <div class="video-container vertical">
+            <iframe src="https://www.youtube.com/embed/iZDqZ6Bq1yI" start="10" frameborder="0" allowfullscreen></iframe>
+            
+          </div>
+          <br>
+          Keying, Compositing, Animation
+        </div>
       </div>
     </div>
   </div>
+  <footer> 
+    <!--#include virtual="footer.html" --> 
+  </footer>
 </div>
-<footer> 
-  <!--#include virtual="footer.html" --> 
-</footer>
 </body>
 </html>

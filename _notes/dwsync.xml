@@ -26,21 +26,55 @@
 <file name="movement.shtml" server="ftp.tootsiesvideovault.com" local="133303859595466564" remote="133303859400000000" Dst="2" />
 <file name="home.shtml" server="ftp.tootsiesvideovault.com" local="133303859594881065" remote="133303859400000000" Dst="2" />
 <file name="index.shtml" server="ftp.tootsiesvideovault.com" local="133303857319023098" remote="133303857000000000" Dst="2" />
-<file name="featured.shtml" server="ftp.tootsiesvideovault.com" local="133310663136666700" remote="133310662800000000" Dst="2" />
+<file name="featured.shtml" server="ftp.tootsiesvideovault.com" local="133366979161219300" remote="133366978800000000" Dst="2" />
 <file name="shorts.shtml" server="ftp.tootsiesvideovault.com" local="133307570048882429" remote="133307569800000000" Dst="2" />
 <file name="comedycentral.shtml" server="ftp.tootsiesvideovault.com" local="133305539071391257" remote="133305538800000000" Dst="2" />
 <file name="PISSTERINE.htm" server="ftp.tootsiesvideovault.com" local="133302168220179867" remote="133302168000000000" Dst="2" />
 <file name="musicvideos.shtml" server="ftp.tootsiesvideovault.com" local="133306543893943595" remote="133306543800000000" Dst="2" />
 <file name="archpaper.shtml" server="ftp.tootsiesvideovault.com" local="133303859593604964" remote="133303859400000000" Dst="2" />
 <file name="electionscience.shtml" server="ftp.tootsiesvideovault.com" local="133304802885418076" remote="133304802600000000" Dst="2" />
-<file name="test.shtml" server="ftp.tootsiesvideovault.com" local="133305531331910120" remote="133305531000000000" Dst="2" />
 <file name="banner.shtml" server="ftp.tootsiesvideovault.com" local="133304642298631674" remote="133304641800000000" Dst="2" />
 <file name="waitress.shtml" server="ftp.tootsiesvideovault.com" local="133303859607983368" remote="133303859400000000" Dst="2" />
 <file name="spoilednyc.shtml" server="ftp.tootsiesvideovault.com" local="133304803226702228" remote="133304803200000000" Dst="2" />
 <file name="quanta.shtml" server="ftp.tootsiesvideovault.com" local="133303859602231625" remote="133303859400000000" Dst="2" />
 <file name="securocam.shtml" server="ftp.tootsiesvideovault.com" local="133304159270357812" remote="133304158800000000" Dst="2" />
 <file name="comedysketches.shtml" server="ftp.tootsiesvideovault.com" local="133305486936909973" remote="133305486600000000" Dst="2" />
-<file name="style.css" server="ftp.tootsiesvideovault.com" local="133305478265964048" remote="133305496800000000" Dst="2" />
-<file name="test.css" server="ftp.tootsiesvideovault.com" local="133305532343436969" remote="133305532200000000" Dst="2" />
+<file name="style.css" server="ftp.tootsiesvideovault.com" local="133312720041555435" remote="133312719600000000" Dst="2" />
 <file name="blackspectacles.shtml" server="ftp.tootsiesvideovault.com" local="133308951319474234" remote="133308951000000000" Dst="2" />
+<file name=".ftpquota" server="G:/Testing Server/" local="133282188600000000" remote="133282188600000000" Dst="2" />
+<file name=".htaccess" server="G:/Testing Server/" local="132237900000000000" remote="132237864000000000" Dst="2" />
+<file name="404.html" server="G:/Testing Server/" local="133299624298503932" remote="133299624290000000" Dst="2" />
+<file name="about.shtml" server="G:/Testing Server/" local="133305478569010306" remote="133305478560000000" Dst="2" />
+<file name="archpaper.shtml" server="G:/Testing Server/" local="133303859593604964" remote="133303859590000000" Dst="2" />
+<file name="banner.shtml" server="G:/Testing Server/" local="133304642298631674" remote="133304642290000000" Dst="2" />
+<file name="barkbox.shtml" server="G:/Testing Server/" local="133304802485173098" remote="133304802480000000" Dst="2" />
+<file name="blackspectacles.shtml" server="G:/Testing Server/" local="133308951319474234" remote="133308951310000000" Dst="2" />
+<file name="comedycentral.shtml" server="G:/Testing Server/" local="133305539071391257" remote="133305539070000000" Dst="2" />
+<file name="comedysketches.shtml" server="G:/Testing Server/" local="133305486936909973" remote="133305486930000000" Dst="2" />
+<file name="electionscience.shtml" server="G:/Testing Server/" local="133304802885418076" remote="133304802880000000" Dst="2" />
+<file name="favicon.ico" server="G:/Testing Server/" local="132237900000000000" remote="132237864000000000" Dst="2" />
+<file name="featured.shtml" server="G:/Testing Server/" local="133310663136666700" remote="133310663130000000" Dst="2" />
+<file name="footer.html" server="G:/Testing Server/" local="133305453100527231" remote="133305453100000000" Dst="2" />
+<file name="home.shtml" server="G:/Testing Server/" local="133303859594881065" remote="133303859590000000" Dst="2" />
+<file name="index.shtml" server="G:/Testing Server/" local="133303857319023098" remote="133303857310000000" Dst="2" />
+<file name="makingit.shtml" server="G:/Testing Server/" local="133303859595161306" remote="133303859590000000" Dst="2" />
+<file name="menu.html" server="G:/Testing Server/" local="133304640133181603" remote="133304640130000000" Dst="2" />
+<file name="movement.shtml" server="G:/Testing Server/" local="133303859595466564" remote="133303859590000000" Dst="2" />
+<file name="moversshakers.shtml" server="G:/Testing Server/" local="133303859595746806" remote="133303859590000000" Dst="2" />
+<file name="musicvideos.shtml" server="G:/Testing Server/" local="133306543893943595" remote="133306543890000000" Dst="2" />
+<file name="nyt.shtml" server="G:/Testing Server/" local="133303859602121533" remote="133303859600000000" Dst="2" />
+<file name="PISSTERINE.htm" server="G:/Testing Server/" local="133302168220179867" remote="133302168220000000" Dst="2" />
+<file name="quanta.shtml" server="G:/Testing Server/" local="133303859602231625" remote="133303859600000000" Dst="2" />
+<file name="README.md" server="G:/Testing Server/" local="133310199837955122" remote="133310199830000000" Dst="2" />
+<file name="rizzle.shtml" server="G:/Testing Server/" local="133305492811028038" remote="133305492810000000" Dst="2" />
+<file name="rockstardemo.shtml" server="G:/Testing Server/" local="133303859602351734" remote="133303859600000000" Dst="2" />
+<file name="scriptnew.js" server="G:/Testing Server/" local="133304729276746364" remote="133304729270000000" Dst="2" />
+<file name="scripts.html" server="G:/Testing Server/" local="133305497227383280" remote="133305497220000000" Dst="2" />
+<file name="securocam.shtml" server="G:/Testing Server/" local="133304159270357812" remote="133304159270000000" Dst="2" />
+<file name="shorts.shtml" server="G:/Testing Server/" local="133307570048882429" remote="133307570040000000" Dst="2" />
+<file name="spoilednyc.shtml" server="G:/Testing Server/" local="133304803226702228" remote="133304803220000000" Dst="2" />
+<file name="style.css" server="G:/Testing Server/" local="133305478265964048" remote="133305478260000000" Dst="2" />
+<file name="waitress.shtml" server="G:/Testing Server/" local="133303859607983368" remote="133303859600000000" Dst="2" />
+<file name="himshers.shtml" server="G:/Testing Server/" local="133312488370098581" remote="133312488370000000" Dst="2" />
+<file name="himshers.shtml" server="ftp.tootsiesvideovault.com" local="133312762121470584" remote="133312761600000000" Dst="2" />
 </dwsync>

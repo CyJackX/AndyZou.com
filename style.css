@@ -185,9 +185,8 @@ body {
   display: block;
 }
 #title {
-  font-size: clamp(1em, 5vw, 3rem);
-  margin-bottom: 20px;
-  margin-top: 20px;
+    font-size: clamp(1em, 5vw, 3rem);
+    margin-bottom: 30px auto;
 }
 .content {
   display: flex;
