@@ -1,17 +1,25 @@
 <div id="wrapper">
   <!--#include virtual="banner.shtml" -->
   <div id="page" class="fade">
-    <h2 id="title">Featured Work</h2>
+    <h2 id="title"></h2>
     <div class="content">
+        <div class="cell">
+        <lite-youtube videoid="_NiN2zU79is"></lite-youtube>
+        <b>WestBrook Studios</b><br>
+            Social Promos</br>
+        Editor</div>
+        <div class="cell">
+        <lite-youtube videoid="IBTQMTwN7vc"></lite-youtube>
+        <b>Death Becomes Her</b><br>
+        Social Promos<br>
+        Editor</div>
         <div class="cell wide">
-            <img src="photos/tellmywife.jpg" alt="Tell My Wife Poster"/>
-        <lite-youtube videoid="daNydp3mpI0" style="background-image: url('photos/tellmywife.jpg');"></lite-youtube>
+            <a href="https://www.youtube.com/watch?v=daNydp3mpI0" target="_blank"><img src="photos/tellmywife.jpg" alt="Tell My Wife Poster" /></a>
+        <!--<lite-youtube videoid="daNydp3mpI0" style="background-image: url('photos/tellmywife.jpg');"></lite-youtube>-->
         <strong>Tell My Wife</strong><br>
         Big Apple Film Fest 2023<br>
         Co-Director, Co-Writer, Co-Editor with <a href="https://www.KatieSicking.com" target="_blank">Katie Sicking</a></div>
-        <div class="cell wide">
-        <lite-youtube videoid="lINEvUCMW_Y" style="background-image: url('photos/AfterEffectsReelThumb.png');"></lite-youtube>
-        <b>After Effects Reel</b></div>
+
         
       <div class="cell">
         <lite-youtube videoid="BXOaAgDnpd8"></lite-youtube>
@@ -28,13 +36,11 @@
         <b>Remote Control Boss</b><br>
         Comedy Central Originals<br>
         Writer, Director, & Editor </div>
-<!--
       <div class="cell">
         <lite-youtube videoid="YUJIjQ0MytM"></lite-youtube>
         <b>Teen Uncle</b> ft. <a href="https://www.youtube.com/@AdamW" target=”_blank”>Adam Waheed</a><br>
         Comedy Central Originals
         <br>Writer, Director, & Editor </div>
--->
       <div class ="cell vertical">
         <lite-youtube videoid="2Z4VgVKrveM" class="portrait" style="background-image: url('photos/breaththumb.jpg');"></lite-youtube>
         <b>Take a Deep F***ing Breath</b><br>
