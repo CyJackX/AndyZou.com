@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="description" content="Andy Zou's Portfolio: Death Becomes Her">
+<meta name="keywords" content="Andy Zou, Creative Director, Content Producer, Video Production, Technology Enthusiast, Freelance Filmmaker, Comedy Central, New York University, Web Development, Director, Filmmaker, Snapchat, Making It, Comedy Central, Music Videos">
+<meta name="author" content="Andy Zou">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Open Graph tags for social media -->
+<meta property="og:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta property="og:description" content="Andy Zou's Portfolio: Death Becomes Her">
+<meta property="og:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta property="og:url" content="https://www.AndyZou.com">
+
+<!-- Twitter Card tags -->
+<meta name="twitter:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta name="twitter:description" content="Andy Zou's Portfolio: Death Becomes Her">
+<meta name="twitter:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@YoAndyZou">
+<title>Andy Zou's Portfolio: Death Becomes Her</title>
+<!--#include virtual="scripts.html" -->
+</head>
+<body>
+<div id="wrapper"> 
+  <!--#include virtual="banner.shtml" -->
+  <div id="page" class="fade">
+    <h2 id="title">Death Becomes Her</h2>
+    <p id="about">Director, Producer, and Editor for this social campaign for Death Becomes Her: The Musical</p>
+    <br>
+    <div class="content">
+      <div class="cell">
+        <lite-youtube videoid="gvjDOk8T9Lo"></lite-youtube>
+      </div>
+      <div class="cell">
+        <lite-youtube videoid="p0EQcb7oays"></lite-youtube>
+      </div>
+      <div class="cell">
+        <lite-youtube videoid="aLHsoQG-jEg"></lite-youtube>
+      </div>
+      <div class="cell">
+        <lite-youtube videoid="j9SF9ys4IhA"></lite-youtube>
+      </div>
+      <div class="cell">
+        <lite-youtube videoid="go1LBg6iEew"></lite-youtube>
+      </div>
+      <br>
+
+<!--
+      <div class="cell">
+        <lite-youtube videoid="IBTQMTwN7vc"></lite-youtube>
+      </div>
+      <div class="cell">
+        <lite-youtube videoid="8QGYE_5nfQM"></lite-youtube>
+-->
+      </div>
+    </div>
+  </div>
+  <footer> 
+    <!--#include virtual="footer.html" --> 
+  </footer>
+</div>
+</body>
+</html>

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="description" content="Andy Zou's Portfolio: Illuminative">
+<meta name="keywords" content="Andy Zou, Creative Director, Content Producer, Video Production, Technology Enthusiast, Freelance Filmmaker, Comedy Central, New York University, Web Development, Director, Filmmaker, Snapchat, Making It, Comedy Central, Music Videos">
+<meta name="author" content="Andy Zou">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Open Graph tags for social media -->
+<meta property="og:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta property="og:description" content="Andy Zou's Portfolio: Illuminative">
+<meta property="og:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta property="og:url" content="https://www.AndyZou.com">
+
+<!-- Twitter Card tags -->
+<meta name="twitter:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta name="twitter:description" content="Andy Zou's Portfolio: Illuminative">
+<meta name="twitter:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@YoAndyZou">
+<title>Andy Zou's Portfolio: Illuminative</title>
+<!--#include virtual="scripts.html" -->
+</head>
+<body>
+<div id="wrapper"> 
+  <!--#include virtual="banner.shtml" -->
+  <div id="page" class="fade">
+    <h2 id="title">Illuminative</h2>
+    <p id="about">Editor for Illuminative voting campaign in collaboration with <a href="https://cmsimpact.org/">Center for Media & Social Impact</a></p>
+    <br>
+    <div class="content">
+      <div class="cell wide">
+        <lite-youtube videoid="vpQ71ynCHco"></lite-youtube>
+        <b>The Voting Song<br>& Hot Singles Ready to Vote</b>
+      </div>
+      <div class="cell">
+        <lite-youtube videoid="23IW3cIxvTg"></lite-youtube>
+      </div>
+      <div class="cell">
+        <lite-youtube videoid="7TUL_b6A1-8"></lite-youtube>
+      </div>
+      <div class="cell">
+        <lite-youtube videoid="6fMUz_plA10"></lite-youtube>
+      </div>
+      <div class="cell">
+        <lite-youtube videoid="Mm2K0oG-v8c"></lite-youtube>
+      </div>
+      <div class="cell">
+        <lite-youtube videoid="29r37QMIWKo"></lite-youtube>
+      </div>
+      <!--https://www.instagram.com/reel/CzZVwhbvFFn/
+        https://www.instagram.com/reel/Cy3jIb9JZvz/
+https://www.instagram.com/reel/Cy3_aSzP7-x/
+      
+      <div class="cell vertical">
+        <lite-youtube class="portrait" videoid="dwXaeTYc3Tg"></lite-youtube>
+      </div>
+      <div class="cell vertical">
+        <div class="video-container vertical">
+          <iframe src="https://www.youtube.com/embed/AROtp_lq240" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>--> 
+    </div>
+  </div>
+  <footer> 
+    <!--#include virtual="footer.html" --> 
+  </footer>
+</div>
+</body>
+</html>

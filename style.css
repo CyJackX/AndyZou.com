@@ -11,6 +11,33 @@
   align-items: center;
   transition: transform 1.75s ease-in;
 }
+
+.makeweirdlive {
+    
+    position:absolute;
+    text-align:center;
+    font-family: 'Designer';
+    font-size:20vh;
+    /*
+    opacity: 0;
+      animation: fadeIn 2s forwards;
+    */
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.fade-in {
+
+}
+
+
 .image-wrapper {
   animation: slide-in 2s ease-out forwards;
 }
@@ -79,6 +106,11 @@ html {
   src: url("/Lato/Lato-Light.ttf");
   font-weight: 300;
 }
+@font-face {
+    font-family: "Designer";
+    src: url("/designerFont/Designer.otf") format('opentype');
+}
+
 a {
   color: black;
 }
@@ -119,6 +151,15 @@ body {
   margin-bottom: auto;
   margin-left: auto;
 }
+
+#bannertext a {
+    color: inherit; /* Makes the link color the same as the surrounding text */
+    text-decoration: none; /* Removes underline from links */
+    background-color: transparent; /* Removes any background color */
+    font-size: inherit; /* Ensures font size is inherited from the parent container */
+    font-family: inherit; /* Ensures font family is inherited from the parent container */
+}
+
 #name {
   /*    font-size: 164px;*/
   font-size: clamp(1px, 9.8vw, 170px);
@@ -304,6 +345,10 @@ footer {
   #wrapper {
     width: 90%;
   }
+    
+    .makeweirdlive{
+        font-size:10vh;
+    }
   .cell {
     width: 100%;
   }

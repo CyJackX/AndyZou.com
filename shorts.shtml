@@ -26,10 +26,10 @@
 <div id="wrapper"> 
   <!--#include virtual="banner.shtml" -->
   <div id="page" class="fade">
-    <h2 id="title">Shorts &amp; Series</h2>
+    <h2 id="title">Shorts &amp; Fests</h2>
     <div class="content">
         <div class="cell wide">
-          <a href="https://www.youtube.com/watch?v=daNydp3mpI0" target="_blank"><img src="photos/OperatorsThumbnail.png" alt="Operators Poster"/></a>
+          <a href="https://youtu.be/aa2zI7PO-X8" target="_blank"><img src="photos/Operators Thumbnail.jpg" alt="Operators Poster"/></a>
 <!--        <lite-youtube videoid="daNydp3mpI0" style="background-image: url('photos/tellmywife.jpg');"></lite-youtube>-->
         <strong>Operators</strong><br>
         Nevermore Film Fest 2024<br>

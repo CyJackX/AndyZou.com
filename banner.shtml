@@ -1,9 +1,9 @@
   <div id="banner"> 
     <!--      <img src="/photos/banner.png" alt="Banner Andy Zou - Creative | Director | Weirdo">-->
       <div class="andyframe"><a href="https://andyzou.com/comedysketches.shtml"><img class="andy" src="photos/figure.jpg" alt="Andy Figurine"></a></div>
-    <div id="bannertext">
+    <div id="bannertext" ><a href="home.shtml">
         <div id="name">Andy Zou</div>
-        <div id="titles">Creative & Director</div>
+        <div id="titles">Creative & Director</div></a>
         <!--#include virtual="menu.html" -->
       </div>
       <div class="andyframe"><a href="https://andyzou.com/comedysketches.shtml"><img class="andy flipped" src="photos/figure.jpg" alt="Andy Figurine"></a></div>

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="description" content="Andy Zou's Portfolio: Tech Videos">
+<meta name="keywords" content="Andy Zou, Creative Director, Content Producer, Video Production, Technology Enthusiast, Freelance Filmmaker, Comedy Central, New York University, Web Development, Director, Filmmaker, Snapchat, Making It, Comedy Central, Music Videos">
+<meta name="author" content="Andy Zou">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Open Graph tags for social media -->
+<meta property="og:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta property="og:description" content="Andy Zou's Portfolio: Tech Videos">
+<meta property="og:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta property="og:url" content="https://www.AndyZou.com">
+
+<!-- Twitter Card tags -->
+<meta name="twitter:title" content="Andy Zou - Creative | Director | Weirdo">
+<meta name="twitter:description" content="Andy Zou's Portfolio: Tech Videos">
+<meta name="twitter:image" content="https://www.andyzou.com/photos/OpenGraph.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@YoAndyZou">
+<title>Andy Zou's Portfolio: Tech Videos</title>
+<!--#include virtual="scripts.html" -->
+</head>
+<body>
+<div id="wrapper"> 
+  <!--#include virtual="banner.shtml" -->
+  <div id="page" class="fade">
+    <h2 id="title">Tech Videos</h2>
+    <p id="about">Andy likes to document developing new skills in interactive and 3D pipelines.</p>
+    <br>
+    <div class="content">
+        <div class="cell wide" > 
+        <lite-youtube videoid="bpkZSxtZd7Y" style="background-image: url('photos/MFFThumbnail.jpg');"></lite-youtube>
+      </div>
+      <div class="cell">
+        <lite-youtube videoid="MpUUsDDE1sI"></lite-youtube>
+      </div>
+      <div class="cell">
+        <lite-youtube videoid="c22gpypHv2k"></lite-youtube>
+      </div>
+      <div class="cell">
+        <lite-youtube videoid="vYaChoQM3W8"></lite-youtube>
+      </div>
+      <div class="cell">
+        <lite-youtube videoid="LUTGZkFc4TE"></lite-youtube>
+      </div>
+    </div>
+  </div>
+</div>
+<footer> 
+  <!--#include virtual="footer.html" --> 
+</footer>
+</div>
+</body>
+</html>

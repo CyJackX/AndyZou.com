@@ -1,26 +1,49 @@
-<div id="wrapper">
+<div id="wrapper"> 
   <!--#include virtual="banner.shtml" -->
   <div id="page" class="fade">
     <h2 id="title"></h2>
     <div class="content">
-        <div class="cell">
+      <div class="cell">
+        <lite-youtube videoid="h-bsM5kzFSA"></lite-youtube>
+        <strong>Better Man : Directing the Scene</strong><br>
+        Editor</div>
+      <div class="cell">
         <lite-youtube videoid="_NiN2zU79is"></lite-youtube>
         <b>WestBrook Studios</b><br>
-            Social Promos</br>
         Editor</div>
-        <div class="cell">
-        <lite-youtube videoid="IBTQMTwN7vc"></lite-youtube>
-        <b>Death Becomes Her</b><br>
-        Social Promos<br>
+      <div class="cell"> <a href="deathbecomesher.shtml"><img src="photos/MarcoThumb.jpg"></img> <b>Death Becomes Her The Musical</b><br>
+        Social Campaign<br>
+        </a> </div>
+      <div class="cell">
+        <lite-youtube videoid="uYB3IziD3Ls"></lite-youtube>
+        <strong>Barstool Survivor Season 4</strong><br>
         Editor</div>
-        <div class="cell wide">
-            <a href="https://www.youtube.com/watch?v=daNydp3mpI0" target="_blank"><img src="photos/tellmywife.jpg" alt="Tell My Wife Poster" /></a>
-        <!--<lite-youtube videoid="daNydp3mpI0" style="background-image: url('photos/tellmywife.jpg');"></lite-youtube>-->
+      <div class="cell">
+        <lite-youtube videoid="IhhD8l476-I"></lite-youtube>
+        <b>BABES Promo</b><br>
+        Editor</div>
+      <div class="cell">
+        <lite-youtube videoid="yShigrHv-4g"></lite-youtube>
+        <b>Immaculate Promo</b><br>
+        Editor</div>
+      <div class ="cell vertical">
+        <lite-youtube videoid="2Z4VgVKrveM" class="portrait" style="background-image: url('photos/breaththumb.jpg');"></lite-youtube>
+        <b>Take a Deep F***ing Breath</b><br>
+        Comedy Central Originals<br>
+        Writer & Director </div>
+      <div class ="cell vertical"> <a href="/makingit.shtml"><img class="verticalimg" src="photos/ep9still.jpg" alt="Still from Snapchat Series Making It"/></a><a href="/makingit.shtml"> <b>Making It</b></a><br>
+        Snapchat Originals<br>
+        Director, Cinematographer & Editor </div>
+      <div class ="cell vertical">
+        <lite-youtube videoid="_oUdAdTUk0c" class="portrait" style="background-image: url('photos/mffThumb.jpg');"></lite-youtube>
+        <b>Mark Fisher Fitness - Garden of Eden</b><br>
+        Unreal Engine, Blender<br>
+        Director, DP, & Editor </div>
+      <div class="cell wide"> <a href="https://www.youtube.com/watch?v=daNydp3mpI0" target="_blank"><img src="photos/tellmywife.jpg" alt="Tell My Wife Poster" /></a> 
+        <!--<lite-youtube videoid="daNydp3mpI0" style="background-image: url('photos/tellmywife.jpg');"></lite-youtube>--> 
         <strong>Tell My Wife</strong><br>
         Big Apple Film Fest 2023<br>
         Co-Director, Co-Writer, Co-Editor with <a href="https://www.KatieSicking.com" target="_blank">Katie Sicking</a></div>
-
-        
       <div class="cell">
         <lite-youtube videoid="BXOaAgDnpd8"></lite-youtube>
         <b>The Rebirthing Center</b><br>
@@ -39,25 +62,11 @@
       <div class="cell">
         <lite-youtube videoid="YUJIjQ0MytM"></lite-youtube>
         <b>Teen Uncle</b> ft. <a href="https://www.youtube.com/@AdamW" target=”_blank”>Adam Waheed</a><br>
-        Comedy Central Originals
-        <br>Writer, Director, & Editor </div>
-      <div class ="cell vertical">
-        <lite-youtube videoid="2Z4VgVKrveM" class="portrait" style="background-image: url('photos/breaththumb.jpg');"></lite-youtube>
-        <b>Take a Deep F***ing Breath</b><br>
-        Comedy Central Originals<br>
-        Writer & Director </div>
-      <div class ="cell vertical"> <a href="/makingit.shtml"><img class="verticalimg" src="photos/ep9still.jpg" alt="Still from Snapchat Series Making It"/></a><a href="/makingit.shtml"> <b>Making It</b></a><br>
-        Snapchat Originals<br>
-        Director, Cinematographer & Editor </div>
-      <div class ="cell vertical">
-        <lite-youtube videoid="DJCgT1gw8nc" class="portrait" style="background-image: url('photos/vestupthumb.jpg');"></lite-youtube>
-        <b>Vesting Up</b><br>
-        Comedy Central Originals<br>
-        Writer, Director, DP, & Editor </div>
+        Comedy Central Originals <br>
+        Writer, Director, & Editor </div>
       <div class="cell"> <a href="https://www.youtube.com/watch?v=nRWyNY1xmto" target="_blank"><img src="photos/beautyandthebowl.jpg" alt="Beauty and the Bowl Thumbnail"></a> <b>Beauty and the Bowl</b> ft. <a href="https://www.unclefunction.com/" target="_blank">Uncle Function</a><br>
         Sketch Comedy ft. on Funny Or Die!<br>
         Director, Cinematographer, & Editor </div>
-                  
       <div class="cell">
         <lite-youtube videoid="lMFubod8Gdc" style="background-image: url('photos/snack.jpg');"></lite-youtube>
         <b>Lookin' Like a Snack</b> ft. <a href="https://www.youtube.com/channel/UC3pC_1P11PhzYThH2SnKAcg" target="_blank">Akilah Hughes</a><br>
@@ -68,9 +77,11 @@
         <b>Torn</b> ft. <a href="https://www.annaroisman.com/">Anna Roisman</a><br>
         Parody Music Video<br>
         Director & Cinematographer </div>
-    <div class="cell">
-            <lite-youtube videoid="_SRIskz2JOY" params="start=1" ></lite-youtube>
-        <b>Securocam 3000</b><br>IFC Comedy Crib<br>Director, Co-Writer, Editor</div>
+      <div class="cell">
+        <lite-youtube videoid="_SRIskz2JOY" params="start=1" ></lite-youtube>
+        <b>Securocam 3000</b><br>
+        IFC Comedy Crib<br>
+        Director, Co-Writer, Editor</div>
       <div class="cell">
         <lite-youtube videoid="iLNypL04zH0"></lite-youtube>
         <b>Andy's Roadshow</b><br>

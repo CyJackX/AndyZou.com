@@ -22,13 +22,17 @@
 <title>Andy Zou - Creative | Director | Weirdo</title>
 
 <!--#include virtual="scripts.html" -->
-</head>
+<link rel="preload" href="designerFont/Designer.otf" as="font" type="font/otf" crossorigin="anonymous">
+
 </head>
 
 <body>
     <div class="splash">
+<!--        <div class="makeweirdlive">
+        Make Weird Live
+        </div>-->
         <div class="image-wrapper">
-          <a href="home.shtml"><img src="/photos/figure.jpg" alt="Andy's Roadshow Splash Picture" class="splash-image"/></a>
+          <a href="home.shtml"><img src="/photos/figure.png" alt="Andy's Roadshow Splash Picture" class="splash-image"/></a>
         </div>
     </div>
     <div id="splashwrapper" class="hiddenbelow">

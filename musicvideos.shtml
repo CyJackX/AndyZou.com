@@ -23,13 +23,14 @@
 <!--#include virtual="scripts.html" -->
 </head>
 <body>
-<div id="wrapper">
+<div id="wrapper"> 
   <!--#include virtual="banner.shtml" -->
   <div id="page" class="fade">
     <h2 id="title">Music Videos</h2>
-      <p id="about">Also check out music videos done with <a href="comedycentral.shtml#roseshow">Rose Kelso at Comedy Central!</a></p><br>
+    <p id="about">Also check out music videos done with <a href="comedycentral.shtml#roseshow">Rose Kelso at Comedy Central!</a></p>
+    <br>
     <div class="content">
-        <div class="cell">
+      <div class="cell">
         <lite-youtube videoid="hQO_LLV9tms"></lite-youtube>
         <b>Instagram Betches</b><br>
         Best Sketch at NYC Short Comedy Film Fest 2020<br>
@@ -39,22 +40,24 @@
         <b>Torn</b> ft. <a href="https://www.annaroisman.com/">Anna Roisman</a><br>
         Parody Music Video<br>
         Director & Cinematographer </div>
-        <div class="cell">
-          <lite-youtube videoid="lMFubod8Gdc" style="background-image: url('photos/snack.jpg');"></lite-youtube>
-          <b>Lookin' Like a Snack</b><br>
-          Branded Music Video<br>
-          Director & Cinematographer </div>
-        <div class="cell">
+      <div class="cell">
+        <lite-youtube videoid="lMFubod8Gdc" style="background-image: url('photos/snack.jpg');"></lite-youtube>
+        <b>Lookin' Like a Snack</b><br>
+        Branded Music Video<br>
+        Director & Cinematographer </div>
+      <div class="cell">
         <lite-youtube videoid="f53aKCMl7FQ" params="start=106"></lite-youtube>
         <b>Jackson Pollack</b> by <a href="https://www.douglaswidick.com">Douglas Widick</a><br>
         Parody Music Video<br>
         Director & Animator</div>
-        <div class="cell">
+      <!--       <div class="cell">
+
         <lite-youtube videoid="17KJIdnMERk"></lite-youtube>
         <b>Laughing Eating Salad</b><br>
         Original Music Video<br>
         Director & Cinematographer</div>
-        <div class="cell">
+-->
+      <div class="cell">
         <lite-youtube videoid="hVrMjp22IM0"></lite-youtube>
         <b>Pay For Me</b><br>
         Parody Music Video<br>
@@ -62,12 +65,36 @@
       <div class="cell">
         <lite-youtube videoid="-53w2mv_upw"></lite-youtube>
         <b>Sugar</b> by <a href="https://www.sistersparrow.com">Sister Sparrow</a><br>
-      Cinematographer & Editor</div>
-              <div class="cell">
+        Cinematographer & Editor</div>
+      <div class="cell">
         <lite-youtube videoid="t3rLCM9LFfE"></lite-youtube>
         <b>Hooking Up With Girls</b> ft. <a href="https://www.lanemoore.org/itwasromance/">Lane Moore</a><br>
-      Cinematographer & Editor</div>
-</div>
+        Cinematographer & Editor</div>
+        
+        <div class="cell">
+        <lite-youtube videoid="pVfDqFe3Obs"></lite-youtube>
+        <b>Pass That Dutch</b><br>
+        Cinematographer & Editor</div>
+      <div class="cell wide">
+        <div class="video-container scope">
+          <iframe src="https://player.vimeo.com/video/334780888?h=a4765c296f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="3840" height="1600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Melton Sharpe - three4"></iframe>
+        </div>
+        <b>three4</b> by <a href="https://marink.bandcamp.com/album/select-screen">Melton Sharpe</a><br>
+        Dancer <a href="https://www.instagram.com/yayal619">Yael Leberman</a><br>
+        Director, Cinematographer, Editor </div>
+      <div class="cell wide">
+        <div class="video-container scope">
+          <iframe src="https://player.vimeo.com/video/156175604?h=41eb493105&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="3840" height="1608" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Ariane Bernier"></iframe>
+        </div>
+        <b>Ariane Bernier</b><br>
+        Music by <a href="https://orangemilkrecords.bandcamp.com/album/diagnostics">Matthew D. Gantt</a><br>
+        Director, Cinematographer, Editor</div>
+      <div class="cell wide">
+        <lite-youtube videoid="zG2amIyE1Es"></lite-youtube>
+        <b>Royal Heart</b> <br>
+        Choreographed by <a href="https://www.instagram.com/haydenjfrederick/?hl=en">Hayden Frederick</a> <br>
+        Cinematographer & Editor </div>
+    </div>
   </div>
   <footer> 
     <!--#include virtual="footer.html" --> 
