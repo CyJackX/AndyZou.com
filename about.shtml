@@ -1,51 +1,81 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-US">
 <head>
 <meta charset="utf-8">
-<meta name="description" content="Andy Zou is a multi-disciplinary content creator, director, and tech enthusiast with over a decade of experience in social-first video content.">
-<meta name="keywords" content="Andy Zou, Creative Director, Content Producer, Video Production, Technology Enthusiast, Freelance Filmmaker, Comedy Central, New York University, Web Development, Director, Filmmaker, about, biography, history">
+<meta name="description" content="About Andy Zou - Award-winning creative director and filmmaker with expertise in social-first video content. Graduate of NYU's Experimental Theatre program with a BFA in Drama and Minor in Mathematics & Computer Science.">
+<meta name="keywords" content="Andy Zou, Creative Director, Content Producer, Video Production, Technology Enthusiast, Freelance Filmmaker, Comedy Central, New York University, Web Development, Director, Filmmaker, Biography, About">
 <meta name="author" content="Andy Zou">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://www.andyzou.com/about" />
 
 <!-- Open Graph tags for social media -->
-<meta property="og:title" content="Andy Zou - Creative | Director | Weirdo">
-<meta property="og:description" content="Andy Zou is a multi-disciplinary content creator, director, and tech enthusiast with over a decade of experience in the social-first video content.">
+<meta property="og:title" content="About Andy Zou - Creative Director & Filmmaker">
+<meta property="og:description" content="Learn about Andy Zou - Award-winning creative director and filmmaker with expertise in social-first video content. NYU graduate with a BFA in Drama and Minor in Mathematics & Computer Science.">
 <meta property="og:image" content="https://www.andyzou.com/photos/OpenGraph.png">
-<meta property="og:url" content="https://www.AndyZou.com">
+<meta property="og:url" content="https://www.andyzou.com/about">
+<meta property="og:type" content="profile">
+<meta property="og:site_name" content="Andy Zou Portfolio">
 
 <!-- Twitter Card tags -->
-<meta name="twitter:title" content="Andy Zou - Creative | Director | Weirdo">
-<meta name="twitter:description" content="Andy Zou is a multi-disciplinary content creator, director, and tech enthusiast with over a decade of experience in the social-first video content.">
+<meta name="twitter:title" content="About Andy Zou - Creative Director & Filmmaker">
+<meta name="twitter:description" content="Learn about Andy Zou - Award-winning creative director and filmmaker with expertise in social-first video content. NYU graduate with a BFA in Drama and Minor in Mathematics & Computer Science.">
 <meta name="twitter:image" content="https://www.andyzou.com/photos/OpenGraph.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@YoAndyZou">
-<title>Andy Zou - About</title>
+<meta name="twitter:creator" content="@YoAndyZou">
+<title>About Andy Zou - Creative Director & Filmmaker</title>
+
+<!-- Structured Data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Andy Zou",
+  "jobTitle": "Creative Director & Filmmaker",
+  "url": "https://www.andyzou.com/about",
+  "image": "https://www.andyzou.com/photos/portrait.jpg",
+  "description": "Award-winning creative director and filmmaker with expertise in social-first video content. Graduate of NYU's Experimental Theatre program with a BFA in Drama and Minor in Mathematics & Computer Science.",
+  "alumniOf": {
+    "@type": "CollegeOrUniversity",
+    "name": "New York University",
+    "sameAs": "https://www.nyu.edu"
+  },
+  "knowsAbout": ["Video Production", "Content Creation", "Social Media", "Film Direction", "Digital Storytelling"],
+  "sameAs": [
+    "https://twitter.com/YoAndyZou",
+    "https://www.linkedin.com/in/andyzou/",
+    "https://www.youtube.com/@YoAndyZou"
+  ],
+  "email": "Andy@InstantMagenta.com"
+}
+</script>
+
 <!--#include virtual="scripts.html" -->
 </head>
 <body>
-
 <div id="wrapper">
   <!--#include virtual="banner.shtml" -->
   
   <div id="page" class="fade">
-    <h2 id="title"></h2>
+    <h2 id="title">About</h2>
     <div id="about"> 
-      <!--        <img src="photos/10259930_658796824158216_4342821014715206294_n.jpg" alt="Andy Zou mugging for the camera at a fashion shoot."/>--> 
-      <img src="photos/portrait.jpg" alt="Andy Zou Portrait">
-      <p class="bio">Andy is a jack-of-all-trades Renaissance guy of creative digital content.  A director, cinematographer, editor, writer, and sometimes coder, Andy has worked on hundreds of short and long-form projects over the past decade, establishing a reputation as a go-to guy for turnkey video and content production.  Past clients have included Comedy Central, Snapchat, Color of Change, Barkbox, Clickhole, The Architect's Newspaper, MOMA, and many others.</p>
-      <!--    <img border=1 src="photos/B35CVIbIgAAIQg-.jpg" style="width:70%" alt=""/>-->
-      <p class="bio">Andy graduated from New York University's Experimental Theatre program with a BFA in Drama and a Minor in Mathematics &amp; Computer Science.</p>
+      <img src="photos/portrait.jpg" alt="Andy Zou - Creative Director and Filmmaker Portrait">
+      <p class="bio">Andy is a jack-of-all-trades Renaissance guy of creative digital content. A director, cinematographer, editor, writer, and sometimes coder, Andy has worked on hundreds of short and long-form projects over the past decade, establishing a reputation as a go-to guy for turnkey video and content production. Past clients have included Comedy Central, Snapchat, Color of Change, Barkbox, Clickhole, The Architect's Newspaper, MOMA, and many others.</p>
+      <p class="bio">Andy graduated from New York University's Experimental Theatre program with a BFA in Drama and a Minor in Mathematics & Computer Science.</p>
     </div>
-    <div id="about" class="contact"> <strong><a href="mailto:Andy@InstantMagenta.com">Andy@InstantMagenta.com</a><br>
-      <a href="https://www.twitter.com/YoAndyZou">Twitter</a><br>
-      <a href="https://www.linkedin.com/in/andyzou/">LinkedIn<br>
-      </a> <a href="https://www.youtube.com/@YoAndyZou">Youtube</a></strong> </div>
-    
+    <div id="about" class="contact"> 
+      <strong>
+        <a href="mailto:Andy@InstantMagenta.com">Andy@InstantMagenta.com</a><br>
+        <a href="https://www.twitter.com/YoAndyZou">Twitter</a><br>
+        <a href="https://www.linkedin.com/in/andyzou/">LinkedIn</a><br>
+        <a href="https://www.youtube.com/@YoAndyZou">Youtube</a>
+      </strong> 
+    </div>
   </div>
-    <footer> 
-      <!--#include virtual="footer.html" --> 
-    </footer>
+  <footer> 
+    <!--#include virtual="footer.html" --> 
+  </footer>
 </div>
-    
 </body>
 </html>

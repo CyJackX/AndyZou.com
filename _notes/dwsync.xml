@@ -69,7 +69,7 @@
 <file name="spoilednyc.shtml" server="G:/Testing Server/" local="133304803226702228" remote="133304803220000000" Dst="2" />
 <file name="style.css" server="G:/Testing Server/" local="133305478265964048" remote="133305478260000000" Dst="2" />
 <file name="waitress.shtml" server="G:/Testing Server/" local="133303859607983368" remote="133303859600000000" Dst="2" />
-<file name="featured.shtml" server="198.187.29.149/andyzou.com/" local="133815272591360115" remote="133815272400000000" Dst="1" />
+<file name="featured.shtml" server="198.187.29.149/andyzou.com/" local="133883622243283000" remote="133883625000000000" Dst="2" />
 <file name="menu.html" server="198.187.29.149/andyzou.com/" local="133816408992386278" remote="133816408800000000" Dst="1" />
 <file name="westbrook.shtml" server="198.187.29.149/andyzou.com/" local="133517166106329007" remote="133517166000000000" Dst="1" />
 <file name="shorts.shtml" server="198.187.29.149/andyzou.com/" local="133784327323551531" remote="133784326800000000" Dst="1" />
@@ -79,7 +79,13 @@
 <file name="style.css" server="198.187.29.149/andyzou.com/" local="133564194013421722" remote="133564158000000000" Dst="2" />
 <file name="index.shtml" server="198.187.29.149/andyzou.com/" local="133564195609582389" remote="133564159200000000" Dst="2" />
 <file name="musicvideos.shtml" server="198.187.29.149/andyzou.com/" local="133816407977323683" remote="133816407600000000" Dst="1" />
-<file name="about.shtml" server="198.187.29.149/andyzou.com/" local="133810276876732752" remote="133810276800000000" Dst="1" />
+<file name="about.shtml" server="198.187.29.149/andyzou.com/" local="133883620728110381" remote="133883625000000000" Dst="2" />
 <file name="illuminative.shtml" server="198.187.29.149/andyzou.com/" local="133813002528147850" remote="133813002000000000" Dst="1" />
-<file name="deathbecomesher.shtml" server="198.187.29.149/andyzou.com/" local="133816897209081233" remote="133816897200000000" Dst="1" />
+<file name="deathbecomesher.shtml" server="198.187.29.149/andyzou.com/" local="133816897210000000" remote="133883625000000000" Dst="2" />
+<file name="AndyZou.Com.code-workspace" server="198.187.29.149/andyzou.com/" local="133883619315183503" remote="133883625000000000" Dst="2" />
+<file name="home - Copy.shtml" server="198.187.29.149/andyzou.com/" local="133312761400000000" remote="133883625000000000" Dst="2" />
+<file name="home.shtml" server="198.187.29.149/andyzou.com/" local="133883620898007795" remote="133883625000000000" Dst="2" />
+<file name="README.md" server="198.187.29.149/andyzou.com/" local="133310199840000000" remote="133883625000000000" Dst="2" />
+<file name="robots.txt" server="198.187.29.149/andyzou.com/" local="133883623115159355" remote="133883625000000000" Dst="2" />
+<file name="sitemap.xml" server="198.187.29.149/andyzou.com/" local="133883671485425212" remote="133883671200000000" Dst="2" />
 </dwsync>

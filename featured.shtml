@@ -95,6 +95,40 @@
     </div>
   </div>
 </div>
+
+<!-- Structured Data for Portfolio Items -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListElement": [
+    {
+      "@type": "VideoObject",
+      "name": "Better Man: Directing the Scene",
+      "description": "Editor for Better Man: Directing the Scene",
+      "thumbnailUrl": "https://www.andyzou.com/photos/breaththumb.jpg",
+      "uploadDate": "2023",
+      "contentUrl": "https://www.youtube.com/watch?v=h-bsM5kzFSA"
+    },
+    {
+      "@type": "VideoObject",
+      "name": "WestBrook Studios",
+      "description": "Editor for WestBrook Studios content",
+      "thumbnailUrl": "https://www.andyzou.com/photos/mffThumb.jpg",
+      "uploadDate": "2023",
+      "contentUrl": "https://www.youtube.com/watch?v=_NiN2zU79is"
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Death Becomes Her The Musical",
+      "description": "Social Campaign for Death Becomes Her The Musical",
+      "thumbnailUrl": "https://www.andyzou.com/photos/MarcoThumb.jpg",
+      "uploadDate": "2023"
+    }
+  ]
+}
+</script>
+
 <footer> 
   <!--#include virtual="footer.html" --> 
 </footer>

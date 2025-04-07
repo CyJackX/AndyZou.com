@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Allow: /photos/
+Allow: /designerFont/
+Allow: /scripts.html
+Allow: /banner.shtml
+Allow: /footer.html
+Allow: /featured.shtml
+
+# Sitemap location
+Sitemap: https://www.andyzou.com/sitemap.xml
+
+# Prevent crawling of any temporary or system files
+Disallow: /.git/
+Disallow: /.env
+Disallow: /.DS_Store
+Disallow: /Thumbs.db 

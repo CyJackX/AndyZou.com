@@ -1,30 +1,55 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-US">
 <head>
 <meta charset="utf-8">
-<meta name="description" content="Andy Zou is a multi-disciplinary content creator, director, and tech enthusiast with over a decade of experience in social-first video content.">
-<meta name="keywords" content="Andy Zou, Creative Director, Content Producer, Video Production, Technology Enthusiast, Freelance Filmmaker, Comedy Central, New York University, Web Development, Director, Filmmaker">
+<meta name="description" content="Portfolio of Andy Zou - Award-winning creative director and filmmaker. Featured works include Comedy Central Originals, Snapchat Series, and innovative tech projects.">
+<meta name="keywords" content="Andy Zou, Creative Director, Content Producer, Video Production, Technology Enthusiast, Freelance Filmmaker, Comedy Central, New York University, Web Development, Director, Filmmaker, Portfolio, Featured Work">
 <meta name="author" content="Andy Zou">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://www.andyzou.com/home" />
 
 <!-- Open Graph tags for social media -->
-<meta property="og:title" content="Andy Zou - Creative | Director | Weirdo">
-<meta property="og:description" content="Andy Zou is a multi-disciplinary content creator, director, and tech enthusiast with over a decade of experience in the social-first video content.">
+<meta property="og:title" content="Andy Zou - Portfolio | Featured Creative Works">
+<meta property="og:description" content="Explore Andy Zou's award-winning portfolio of creative works, including Comedy Central Originals, Snapchat Series, and innovative tech projects.">
 <meta property="og:image" content="https://www.andyzou.com/photos/OpenGraph.png">
-<meta property="og:url" content="https://www.AndyZou.com">
+<meta property="og:url" content="https://www.andyzou.com/home">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Andy Zou Portfolio">
 
 <!-- Twitter Card tags -->
-<meta name="twitter:title" content="Andy Zou - Creative | Director | Weirdo">
-<meta name="twitter:description" content="Andy Zou is a multi-disciplinary content creator, director, and tech enthusiast with over a decade of experience in the social-first video content.">
+<meta name="twitter:title" content="Andy Zou - Portfolio | Featured Creative Works">
+<meta name="twitter:description" content="Explore Andy Zou's award-winning portfolio of creative works, including Comedy Central Originals, Snapchat Series, and innovative tech projects.">
 <meta name="twitter:image" content="https://www.andyzou.com/photos/OpenGraph.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@YoAndyZou">
-<title>Andy Zou - Creative | Director | Weirdo</title>
+<meta name="twitter:creator" content="@YoAndyZou">
+<title>Andy Zou - Portfolio | Featured Creative Works</title>
+
+<!-- Structured Data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Andy Zou Portfolio - Featured Works",
+  "description": "Portfolio of Andy Zou - Award-winning creative director and filmmaker. Featured works include Comedy Central Originals, Snapchat Series, and innovative tech projects.",
+  "url": "https://www.andyzou.com/home",
+  "author": {
+    "@type": "Person",
+    "name": "Andy Zou",
+    "jobTitle": "Creative Director & Filmmaker"
+  },
+  "about": {
+    "@type": "Thing",
+    "name": "Creative Portfolio",
+    "description": "Award-winning creative works including Comedy Central Originals, Snapchat Series, and innovative tech projects"
+  }
+}
+</script>
 
 <!--#include virtual="scripts.html" -->
 </head>
 <body>
 <!--#include virtual="featured.shtml" -->
-    
 </body>
 </html>

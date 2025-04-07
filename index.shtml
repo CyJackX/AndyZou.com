@@ -1,25 +1,50 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-US">
 <head>
 <meta charset="utf-8">
-<meta name="description" content="Andy Zou is a multi-disciplinary content creator, director, and tech enthusiast with over a decade of experience in social-first video content.">
-<meta name="keywords" content="Andy Zou, Creative Director, Content Producer, Video Production, Technology Enthusiast, Freelance Filmmaker, Comedy Central, New York University, Web Development, Director, Filmmaker">
+<meta name="description" content="Andy Zou - Award-winning creative director and filmmaker with 10+ years of experience in social-first video content. Portfolio includes work for Comedy Central, NYT, and innovative tech projects.">
+<meta name="keywords" content="Andy Zou, Creative Director, Content Producer, Video Production, Technology Enthusiast, Freelance Filmmaker, Comedy Central, New York University, Web Development, Director, Filmmaker, Social Media Content, Digital Storytelling">
 <meta name="author" content="Andy Zou">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://www.andyzou.com" />
 
 <!-- Open Graph tags for social media -->
-<meta property="og:title" content="Andy Zou - Creative | Director | Weirdo">
-<meta property="og:description" content="Andy Zou is a multi-disciplinary content creator, director, and tech enthusiast with over a decade of experience in the social-first video content.">
+<meta property="og:title" content="Andy Zou - Creative Director & Filmmaker | Social-First Content Creator">
+<meta property="og:description" content="Award-winning creative director and filmmaker specializing in social-first video content. Portfolio includes Comedy Central, NYT, and innovative tech projects.">
 <meta property="og:image" content="https://www.andyzou.com/photos/OpenGraph.png">
-<meta property="og:url" content="https://www.AndyZou.com">
+<meta property="og:url" content="https://www.andyzou.com">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Andy Zou Portfolio">
 
 <!-- Twitter Card tags -->
-<meta name="twitter:title" content="Andy Zou - Creative | Director | Weirdo">
-<meta name="twitter:description" content="Andy Zou is a multi-disciplinary content creator, director, and tech enthusiast with over a decade of experience in the social-first video content.">
+<meta name="twitter:title" content="Andy Zou - Creative Director & Filmmaker | Social-First Content Creator">
+<meta name="twitter:description" content="Award-winning creative director and filmmaker specializing in social-first video content. Portfolio includes Comedy Central, NYT, and innovative tech projects.">
 <meta name="twitter:image" content="https://www.andyzou.com/photos/OpenGraph.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@YoAndyZou">
-<title>Andy Zou - Creative | Director | Weirdo</title>
+<meta name="twitter:creator" content="@YoAndyZou">
+
+<title>Andy Zou - Creative Director & Filmmaker | Social-First Content Creator</title>
+
+<!-- Structured Data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Andy Zou",
+  "jobTitle": "Creative Director & Filmmaker",
+  "url": "https://www.andyzou.com",
+  "sameAs": [
+    "https://twitter.com/YoAndyZou"
+  ],
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Freelance"
+  },
+  "description": "Award-winning creative director and filmmaker specializing in social-first video content. Portfolio includes Comedy Central, NYT, and innovative tech projects."
+}
+</script>
 
 <!--#include virtual="scripts.html" -->
 <link rel="preload" href="designerFont/Designer.otf" as="font" type="font/otf" crossorigin="anonymous">
@@ -28,11 +53,8 @@
 
 <body>
     <div class="splash">
-<!--        <div class="makeweirdlive">
-        Make Weird Live
-        </div>-->
         <div class="image-wrapper">
-          <a href="home.shtml"><img src="/photos/figure.png" alt="Andy's Roadshow Splash Picture" class="splash-image"/></a>
+          <a href="home.shtml"><img src="/photos/figure.png" alt="Andy Zou - Creative Director and Filmmaker Portfolio" class="splash-image"/></a>
         </div>
     </div>
     <div id="splashwrapper" class="hiddenbelow">
